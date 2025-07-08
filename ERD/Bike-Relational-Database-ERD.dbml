@@ -1,5 +1,27 @@
 // Before uploading it unto the SQLite database, I opted to visualize the Entity Relationship Diagram first in order to run it smoothly after uploading it
 
+// Fact Table
+TABLE order_items {
+  Item_ID integer [pk, increment]
+  Order_ID integer [not null]
+  Product_ID integer [not null]
+  Quantity numeric
+  List_Price numeric 
+  Discount numeric
+}
+
+// Dimension Tables 
+TABLE orders { 
+  Order_ID integer [pk, increment]
+  Customer_ID integer [not null]
+  Order_Status text [not null]
+  Order_Date date
+  Required_Date date 
+  Shipped_Date date
+  Store_ID integer [not null]
+  Staff_ID integer [not null]
+}
+
 TABLE brands {
   Brand_ID integer [pk, increment] 
   Brand_Name text [not null]
@@ -20,54 +42,60 @@ TABLE customers {
   Zip_Code integer
 }
 
-TABLE order_items {
-  Order_ID integer [pk, increment]
-  Item_ID integer [unique]
-  Product_ID integer [not null]
-  Quantity text
-  List_Price text 
-  Discount text
-}
-
-TABLE orders { // This is the Fact Table
-  Order_ID text [pk, increment]
-  Customer_ID text [not null]
-  Order_Status text [not null]
-  Order_Date text
-  Required_Date text 
-  Shipped_Date date
-  Store_ID integer
-  Staff_ID integer
-}
-
 TABLE products {
-  Product_ID text [pk, increment]
+  Product_ID integer [pk, increment]
   Product_Name text [not null]
-  Brand_ID text [not null]
-  Category_ID text
-  Model_Year text 
+  Brand_ID integer [not null]
+  Category_ID integer [not null]
+  Model_Year numeric
+  List_Price numeric 
 }
 
 TABLE Staffs {
-  Staff_ID text [pk, increment]
+  Staff_ID integer [pk, increment]
   First_Name text [not null]
   Last_Name text [not null]
   Email text
 }
 
 TABLE Stocks {
-  Store_ID text [pk, increment]
-  Product_ID text [not null]
+  Store_ID integer [pk, increment]
+  Product_ID integer [not null]
   Quantity numeric  
+
+// Created a composite key for stocks
+indexes {
+  (Store_ID, Product_ID) [pk] 
+  }
 }
 
 TABLE Stores {
-  Store_ID text [pk, increment]
+  Store_ID integer [pk, increment]
   Store_Name text [not null]
   Phone text [not null]
   Email text
   Street text
   City text
-  State Varchar(20)
+  State varchar(20)
   Zip_Code text
 }
+
+// Relationships
+
+//Connection for orders_table to fk_tables
+Ref: orders.Customer_ID > customers.Customer_ID
+Ref: orders.Store_ID > Stores.Store_ID
+Ref: orders.Staff_ID > Staffs.Staff_ID
+
+//Connection for orders_items_table to fk_tables
+Ref: order_items.Order_ID > orders.Order_ID
+Ref: order_items.Product_ID > products.Product_ID 
+
+//Connection for products_table to fk_tables
+Ref: products.Brand_ID > brands.Brand_ID
+Ref: products.Category_ID > categories.Category_ID
+
+//Connection for Stocks_table to fk_tables
+Ref: Stocks.Store_ID > Stores.Store_ID
+Ref: Stocks.Product_ID > products.Product_ID
+
