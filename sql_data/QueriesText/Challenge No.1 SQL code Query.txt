@@ -1,0 +1,17 @@
+SELECT 
+p.Product_ID,
+p.Product_Name,
+p.List_Price,
+oi.Quantity,
+oi.Discount,
+o.Order_ID,
+o.Shipped_Date,
+SUM(oi.Quantity * p.List_Price * (1 - oi.discount)) AS Total_Revenue
+FROM products p
+JOIN order_items oi
+	ON p.Product_ID = oi.Product_ID
+JOIN orders o
+	ON o.Order_ID = oi.Order_ID
+WHERE strftime('%Y', o.Shipped_Date) = '2018'
+GROUP BY p.Product_ID, p.Product_Name
+ORDER BY Total_Revenue DESC;
