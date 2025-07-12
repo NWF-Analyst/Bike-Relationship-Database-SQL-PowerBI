@@ -1,0 +1,11 @@
+SELECT 
+s.Store_ID,
+s.Store_Name,
+ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.discount)),2) AS Total_Sales
+FROM stores s
+JOIN orders o 
+	ON s.Store_ID = o.Store_ID
+JOIN order_items oi
+	ON o.order_ID = oi.Order_ID
+GROUP BY s.Store_ID
+ORDER BY Total_Sales DESC;
