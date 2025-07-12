@@ -1,0 +1,12 @@
+CREATE VIEW Total_Sales_by_Staff AS
+SELECT 
+s.Staff_ID,
+s.First_Name || ' ' || s.Last_Name AS Full_Name,
+ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.discount)),2) AS Total_Sales
+FROM staffs s
+JOIN orders o 
+	ON s.Staff_ID = o.Staff_ID
+JOIN order_items oi
+	ON o.order_ID = oi.Order_ID
+GROUP BY s.Staff_ID
+ORDER BY Total_Sales DESC;
