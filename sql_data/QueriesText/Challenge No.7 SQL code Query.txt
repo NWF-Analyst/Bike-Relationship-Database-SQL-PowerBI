@@ -1,0 +1,12 @@
+CREATE VIEW Average_Discount_Rate_By_Products AS
+SELECT
+p.Product_ID,
+p.Product_Name,
+ROUND(AVG(oi.Discount),2) AS Ave_Discount,
+COUNT(oi.Order_ID) AS Times_Sold,
+ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.Discount)), 2) AS Total_Revenue
+FROM products p
+JOIN order_items oi
+	ON p.Product_ID = oi.Product_ID
+GROUP BY p.Product_ID, p.Product_Name
+ORDER BY Ave_Discount;
