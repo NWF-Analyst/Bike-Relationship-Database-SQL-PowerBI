@@ -105,7 +105,7 @@ FROM products p
 JOIN order_items oi
 	ON p.Product_ID = oi.Product_ID
 GROUP BY p.Product_ID, p.Product_Name
-ORDER BY Ave_Discount;</sql><sql name="Challenge 8*">WITH Order_Value AS (
+ORDER BY Ave_Discount;</sql><sql name="Challenge 8">WITH Order_Value AS (
 SELECT
 o.Order_ID,
 ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.Discount)), 2) AS Value
@@ -121,11 +121,4 @@ SELECT
 order_ID,
 Value,
 row_number() OVER (ORDER BY Value DESC) AS rankings
-FROM Order_Value;</sql><sql name="Challenge 9*">SELECT
-o.Order_ID,
-ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.Discount)), 2) AS Value
-FROM orders o
-JOIN order_items oi
-	ON o.Order_ID = oi.Order_ID
-GROUP BY o.order_ID
-ORDER BY Value DESC</sql><current_tab id="7"/></tab_sql></sqlb_project>
+FROM Order_Value;</sql><sql name="Challenge 9*"></sql><current_tab id="8"/></tab_sql></sqlb_project>
