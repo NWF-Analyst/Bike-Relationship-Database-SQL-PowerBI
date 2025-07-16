@@ -1,11 +1,1616 @@
-order_ID,Value,rankings
-1541,29147.03,1
-937,27050.72,2
-1506,25574.96,3
-1482,25365.43,4
-1364,24890.62,5
-930,24607.03,6
-1348,20648.95,7
-1334,20509.43,8
-973,20177.75,9
-1118,19329.95,10
+order_ID,Product_ID,Product_Name,Value,rankings
+1541,17,Pure Cycles Vine 8-Speed - 2016,29147.03,1
+937,28,Surly Karate Monkey 27.5+ Frameset - 2017,27050.72,2
+1506,149,Trek Domane SLR 8 Disc - 2018,25574.96,3
+1482,40,Trek Fuel EX 9.8 29 - 2017,25365.43,4
+1364,78,Sun Bicycles Biscayne Tandem CB - 2017,24890.62,5
+930,51,Trek Silque SLR 8 Women's - 2017,24607.03,6
+1348,58,Trek Madone 9.2 - 2017,20648.95,7
+1334,13,Electra Cruiser 1 (24-Inch) - 2016,20509.43,8
+973,4,Trek Fuel EX 8 29 - 2016,20177.75,9
+1118,29,Trek X-Caliber 8 - 2017,19329.95,10
+1349,138,Trek Fuel EX 5 Plus - 2018,18853.35,11
+1115,49,Trek Domane SL 6 - 2017,18670.93,12
+1277,4,Trek Fuel EX 8 29 - 2016,18553.73,13
+1593,34,Trek Session DH 27.5 Carbon Frameset - 2017,18523.18,14
+1297,43,Trek Fuel EX 9.8 27.5 Plus - 2017,18281.47,15
+1377,48,Trek Emonda S 4 - 2017,18278.94,16
+946,7,Trek Slash 8 27.5 - 2016,18114.93,17
+1251,7,Trek Slash 8 27.5 - 2016,17834.96,18
+1345,2,Ritchey Timberwolf Frameset - 2016,17758.35,19
+1060,7,Trek Slash 8 27.5 - 2016,17746.6,20
+1410,203,Trek Powerfly 7 FS - 2018,17611.96,21
+799,5,Heller Shagamaw Frame - 2016,17580.72,22
+1169,51,Trek Silque SLR 8 Women's - 2017,17494.94,23
+951,43,Trek Fuel EX 9.8 27.5 Plus - 2017,17479.96,24
+660,29,Trek X-Caliber 8 - 2017,17305.94,25
+1592,9,Trek Conduit+ - 2016,17181.05,26
+659,39,Trek Stache 5 - 2017,17086.93,27
+685,48,Trek Emonda S 4 - 2017,16950.08,28
+892,9,Trek Conduit+ - 2016,16890.15,29
+934,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,16861.75,30
+1170,15,Electra Moto 1 - 2016,16846.95,31
+1095,3,Surly Wednesday Frameset - 2016,16491.52,32
+736,17,Pure Cycles Vine 8-Speed - 2016,16436.06,33
+1468,50,Trek Silque SLR 7 Women's - 2017,15999.96,34
+741,21,Electra Cruiser 1 (24-Inch) - 2016,15981.14,35
+900,26,Electra Townie Original 7D EQ - 2016,15876.43,36
+1283,7,Trek Slash 8 27.5 - 2016,15747.75,37
+1515,27,Surly Big Dummy Frameset - 2017,15645.92,38
+1020,15,Electra Moto 1 - 2016,15525.12,39
+645,6,Surly Ice Cream Truck Frameset - 2016,15455.62,40
+672,48,Trek Emonda S 4 - 2017,15439.95,41
+677,7,Trek Slash 8 27.5 - 2016,15416.16,42
+1122,9,Trek Conduit+ - 2016,15205.93,43
+1219,17,Pure Cycles Vine 8-Speed - 2016,15097.91,44
+755,43,Trek Fuel EX 9.8 27.5 Plus - 2017,15087.26,45
+1428,28,Surly Karate Monkey 27.5+ Frameset - 2017,14935.03,46
+987,51,Trek Silque SLR 8 Women's - 2017,14904.62,47
+1510,68,Sun Bicycles Cruz 3 - 2017,14839.99,48
+797,11,Surly Straggler 650b - 2016,14735.42,49
+1497,141,Trek Stache 5 - 2018,14655.95,50
+1476,43,Trek Fuel EX 9.8 27.5 Plus - 2017,14573.93,51
+1129,56,Trek Domane SLR 6 Disc - 2017,14567.16,52
+1460,7,Trek Slash 8 27.5 - 2016,14566.43,53
+1513,61,Trek Powerfly 8 FS Plus - 2017,14544.95,54
+1438,81,Electra Amsterdam Fashion 7i Ladies' - 2017,14405.05,55
+1336,21,Electra Cruiser 1 (24-Inch) - 2016,14397.14,56
+1402,28,Surly Karate Monkey 27.5+ Frameset - 2017,14249.65,57
+945,34,Trek Session DH 27.5 Carbon Frameset - 2017,14172.22,58
+904,13,Electra Cruiser 1 (24-Inch) - 2016,14141.34,59
+1516,172,Trek Domane ALR Disc Frameset - 2018,14035.92,60
+1175,3,Surly Wednesday Frameset - 2016,13947.54,61
+1463,51,Trek Silque SLR 8 Women's - 2017,13821.53,62
+715,50,Trek Silque SLR 7 Women's - 2017,13799.97,63
+1450,98,Electra Straight 8 3i (20-inch) - Boy's - 2017,13773.63,64
+1140,38,Haro Flightline Two 26 Plus - 2017,13765.55,65
+692,15,Electra Moto 1 - 2016,13523.75,66
+1555,24,Electra Townie Original 21D - 2016,13431.06,67
+1584,43,Trek Fuel EX 9.8 27.5 Plus - 2017,13293.93,68
+1271,25,Electra Townie Original 7D - 2015/2016,13287.53,69
+1003,34,Trek Session DH 27.5 Carbon Frameset - 2017,13242.96,70
+1434,61,Trek Powerfly 8 FS Plus - 2017,13191.94,71
+664,5,Heller Shagamaw Frame - 2016,13130.83,72
+853,6,Surly Ice Cream Truck Frameset - 2016,13107.44,73
+1226,11,Surly Straggler 650b - 2016,13033.6,74
+927,3,Surly Wednesday Frameset - 2016,12980.94,75
+359,7,Trek Slash 8 27.5 - 2016,12965.75,76
+1362,4,Trek Fuel EX 8 29 - 2016,12935.95,77
+1540,71,Sun Bicycles Atlas X-Type - 2017,12914.14,78
+1055,12,Electra Townie Original 21D - 2016,12909.92,79
+1220,47,Trek Remedy 9.8 - 2017,12867.96,80
+1006,20,Electra Townie Original 7D EQ - Women's - 2016,12774.25,81
+1117,37,Haro Flightline One ST - 2017,12663.96,82
+968,10,Surly Straggler - 2016,12595.07,83
+787,51,Trek Silque SLR 8 Women's - 2017,12541.76,84
+207,5,Heller Shagamaw Frame - 2016,12461.55,85
+804,50,Trek Silque SLR 7 Women's - 2017,12433.46,86
+100,7,Trek Slash 8 27.5 - 2016,12420.71,87
+1080,31,Surly Wednesday - 2017,12400.85,88
+1189,40,Trek Fuel EX 9.8 29 - 2017,12392.95,89
+1341,56,Trek Domane SLR 6 Disc - 2017,12381.83,90
+1333,12,Electra Townie Original 21D - 2016,12369.63,91
+608,4,Trek Fuel EX 8 29 - 2016,12334.96,92
+839,55,Trek Domane S 6 - 2017,12307.96,93
+1487,96,Electra Moto 3i (20-inch) - Boy's - 2017,12259.94,94
+1550,86,Trek Girl's Kickster - 2017,12117.73,95
+774,20,Electra Townie Original 7D EQ - Women's - 2016,12104.79,96
+1505,24,Electra Townie Original 21D - 2016,12099.94,97
+1338,169,Trek Emonda SLR 8 - 2018,12089.98,98
+1546,25,Electra Townie Original 7D - 2015/2016,12039.95,99
+887,50,Trek Silque SLR 7 Women's - 2017,11993.97,100
+1449,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,11972.93,101
+314,5,Heller Shagamaw Frame - 2016,11950.48,102
+1302,20,Electra Townie Original 7D EQ - Women's - 2016,11832.45,103
+1105,35,Sun Bicycles Spider 3i - 2017,11831.34,104
+1262,37,Haro Flightline One ST - 2017,11787.55,105
+1520,186,Trek CrossRip+ - 2018,11710.94,106
+1518,182,Trek Domane SL 5 Disc - 2018,11673.94,107
+860,6,Surly Ice Cream Truck Frameset - 2016,11596.43,108
+884,10,Surly Straggler - 2016,11588.65,109
+1542,37,Haro Flightline One ST - 2017,11580.33,110
+38,7,Trek Slash 8 27.5 - 2016,11578.65,111
+310,5,Heller Shagamaw Frame - 2016,11479.54,112
+1124,2,Ritchey Timberwolf Frameset - 2016,11476.54,113
+1233,55,Trek Domane S 6 - 2017,11463.96,114
+271,6,Surly Ice Cream Truck Frameset - 2016,11462.6,115
+1585,95,"Electra Girl's Hawaii 1 16"" - 2017",11444.94,116
+1257,4,Trek Fuel EX 8 29 - 2016,11428.65,117
+18,2,Ritchey Timberwolf Frameset - 2016,11406.43,118
+1255,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,11391.43,119
+823,56,Trek Domane SLR 6 Disc - 2017,11349.96,120
+288,4,Trek Fuel EX 8 29 - 2016,11314.07,121
+1291,57,Trek Emonda S 5 - 2017,11299.97,122
+982,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,11238.65,123
+1306,9,Trek Conduit+ - 2016,11210.73,124
+1393,47,Trek Remedy 9.8 - 2017,11183.04,125
+30,4,Trek Fuel EX 8 29 - 2016,11183.03,126
+1570,155,Trek Domane SLR 9 Disc - 2018,11159.99,127
+955,31,Surly Wednesday - 2017,11120.33,128
+1514,203,Trek Powerfly 7 FS - 2018,11119.96,129
+1529,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,11084.97,130
+1112,5,Heller Shagamaw Frame - 2016,11062.42,131
+710,28,Surly Karate Monkey 27.5+ Frameset - 2017,11055.94,132
+905,20,Electra Townie Original 7D EQ - Women's - 2016,11035.85,133
+282,3,Surly Wednesday Frameset - 2016,11013.93,134
+1234,56,Trek Domane SLR 6 Disc - 2017,11005.58,135
+1214,7,Trek Slash 8 27.5 - 2016,10998.03,136
+452,7,Trek Slash 8 27.5 - 2016,10986.9,137
+1525,156,Trek Domane SL Frameset - 2018,10963.12,138
+1137,28,Surly Karate Monkey 27.5+ Frameset - 2017,10951.56,139
+882,57,Trek Emonda S 5 - 2017,10949.95,140
+1601,7,Trek Slash 8 27.5 - 2016,10937.34,141
+1558,4,Trek Fuel EX 8 29 - 2016,10885.55,142
+680,7,Trek Slash 8 27.5 - 2016,10869.96,143
+124,4,Trek Fuel EX 8 29 - 2016,10866.96,144
+639,15,Electra Moto 1 - 2016,10794.35,145
+781,7,Trek Slash 8 27.5 - 2016,10792.25,146
+1162,12,Electra Townie Original 21D - 2016,10728.44,147
+1536,183,Trek Domane SL 5 Women's - 2018,10647.96,148
+208,3,Surly Wednesday Frameset - 2016,10620.04,149
+717,56,Trek Domane SLR 6 Disc - 2017,10617.97,150
+1538,46,Haro SR 1.3 - 2017,10608.64,151
+390,7,Trek Slash 8 27.5 - 2016,10574.96,152
+718,40,Trek Fuel EX 9.8 29 - 2017,10572.54,153
+1347,43,Trek Fuel EX 9.8 27.5 Plus - 2017,10570.47,154
+300,9,Trek Conduit+ - 2016,10563.65,155
+1229,36,Surly Troll Frameset - 2017,10549.34,156
+728,56,Trek Domane SLR 6 Disc - 2017,10541.96,157
+949,9,Trek Conduit+ - 2016,10529.96,158
+700,7,Trek Slash 8 27.5 - 2016,10399.97,159
+1566,61,Trek Powerfly 8 FS Plus - 2017,10373.97,160
+558,7,Trek Slash 8 27.5 - 2016,10372.09,161
+466,5,Heller Shagamaw Frame - 2016,10360.25,162
+698,12,Electra Townie Original 21D - 2016,10336.96,163
+732,4,Trek Fuel EX 8 29 - 2016,10322.97,164
+1425,54,Trek Domane SL Disc Frameset - 2017,10314.92,165
+749,9,Trek Conduit+ - 2016,10269.86,166
+1439,42,Trek Fuel EX 5 27.5 Plus - 2017,10266.95,167
+1,4,Trek Fuel EX 8 29 - 2016,10231.05,168
+223,5,Heller Shagamaw Frame - 2016,10216.24,169
+846,46,Haro SR 1.3 - 2017,10187.95,170
+429,2,Ritchey Timberwolf Frameset - 2016,10186.74,171
+869,7,Trek Slash 8 27.5 - 2016,10186.63,172
+1300,58,Trek Madone 9.2 - 2017,10132.36,173
+432,7,Trek Slash 8 27.5 - 2016,10078.38,174
+1040,8,Trek Remedy 29 Carbon Frameset - 2016,10050.63,175
+157,4,Trek Fuel EX 8 29 - 2016,10049.97,176
+1282,50,Trek Silque SLR 7 Women's - 2017,10047.42,177
+1534,117,Trek Ticket S Frame - 2018,9986.45,178
+1343,65,Sun Bicycles Lil Bolt Type-R - 2017,9942.14,179
+1041,61,Trek Powerfly 8 FS Plus - 2017,9938.95,180
+694,39,Trek Stache 5 - 2017,9934.13,181
+449,2,Ritchey Timberwolf Frameset - 2016,9927.56,182
+1216,19,Pure Cycles William 3-Speed - 2016,9927.2,183
+1053,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,9919.92,184
+1224,32,Trek Farley Alloy Frameset - 2017,9908.46,185
+167,7,Trek Slash 8 27.5 - 2016,9874.65,186
+1023,43,Trek Fuel EX 9.8 27.5 Plus - 2017,9865.47,187
+1420,128,Surly ECR 27.5 - 2018,9849.07,188
+484,6,Surly Ice Cream Truck Frameset - 2016,9838.45,189
+1191,40,Trek Fuel EX 9.8 29 - 2017,9833.65,190
+1587,63,Trek Boone Race Shop Limited - 2017,9802.93,191
+901,43,Trek Fuel EX 9.8 27.5 Plus - 2017,9728.98,192
+993,10,Surly Straggler - 2016,9725.84,193
+1378,2,Ritchey Timberwolf Frameset - 2016,9712.95,194
+681,6,Surly Ice Cream Truck Frameset - 2016,9704.94,195
+274,9,Trek Conduit+ - 2016,9673.84,196
+1123,61,Trek Powerfly 8 FS Plus - 2017,9645.38,197
+961,47,Trek Remedy 9.8 - 2017,9605.98,198
+1466,39,Trek Stache 5 - 2017,9532.35,199
+847,61,Trek Powerfly 8 FS Plus - 2017,9499.98,200
+468,9,Trek Conduit+ - 2016,9497.17,201
+1409,170,Trek CrossRip 2 - 2018,9481.43,202
+1355,149,Trek Domane SLR 8 Disc - 2018,9479.96,203
+566,7,Trek Slash 8 27.5 - 2016,9474.94,204
+6,3,Surly Wednesday Frameset - 2016,9442.5,205
+476,4,Trek Fuel EX 8 29 - 2016,9408.79,206
+658,9,Trek Conduit+ - 2016,9399.97,207
+1491,60,Sun Bicycles ElectroLite - 2017,9389.04,208
+243,7,Trek Slash 8 27.5 - 2016,9385.1,209
+753,7,Trek Slash 8 27.5 - 2016,9372.37,210
+844,12,Electra Townie Original 21D - 2016,9334.51,211
+1287,27,Surly Big Dummy Frameset - 2017,9327.74,212
+1397,7,Trek Slash 8 27.5 - 2016,9314.84,213
+99,7,Trek Slash 8 27.5 - 2016,9301.93,214
+874,27,Surly Big Dummy Frameset - 2017,9287.94,215
+665,25,Electra Townie Original 7D - 2015/2016,9279.96,216
+457,2,Ritchey Timberwolf Frameset - 2016,9278.65,217
+1548,32,Trek Farley Alloy Frameset - 2017,9277.97,218
+785,25,Electra Townie Original 7D - 2015/2016,9274.97,219
+304,7,Trek Slash 8 27.5 - 2016,9211.52,220
+121,2,Ritchey Timberwolf Frameset - 2016,9210.72,221
+1390,27,Surly Big Dummy Frameset - 2017,9200.83,222
+599,9,Trek Conduit+ - 2016,9199.16,223
+1575,44,Haro SR 1.1 - 2017,9182.23,224
+1366,115,Trek Fuel EX 8 29 - 2018,9173.38,225
+267,7,Trek Slash 8 27.5 - 2016,9163.43,226
+970,48,Trek Emonda S 4 - 2017,9161.95,227
+802,28,Surly Karate Monkey 27.5+ Frameset - 2017,9157.76,228
+1047,28,Surly Karate Monkey 27.5+ Frameset - 2017,9134.7,229
+1133,4,Trek Fuel EX 8 29 - 2016,9044.93,230
+1556,49,Trek Domane SL 6 - 2017,8987.73,231
+294,7,Trek Slash 8 27.5 - 2016,8975.16,232
+1611,171,Trek Domane SL 6 - 2018,8963.96,233
+1310,11,Surly Straggler 650b - 2016,8945.75,234
+1464,109,Sun Bicycles Cruz 7 - Women's - 2017,8936.45,235
+1194,7,Trek Slash 8 27.5 - 2016,8901.79,236
+1499,2,Ritchey Timberwolf Frameset - 2016,8897.88,237
+161,7,Trek Slash 8 27.5 - 2016,8879.45,238
+1276,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,8820.15,239
+559,6,Surly Ice Cream Truck Frameset - 2016,8816.95,240
+1346,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,8797.05,241
+1168,15,Electra Moto 1 - 2016,8787.13,242
+1533,51,Trek Silque SLR 8 Women's - 2017,8782.14,243
+75,3,Surly Wednesday Frameset - 2016,8763.96,244
+1578,204,Trek Super Commuter+ 7 - 2018,8750.96,245
+980,9,Trek Conduit+ - 2016,8740.97,246
+1325,28,Surly Karate Monkey 27.5+ Frameset - 2017,8729.96,247
+1308,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,8712.85,248
+1562,54,Trek Domane SL Disc Frameset - 2017,8712.77,249
+249,7,Trek Slash 8 27.5 - 2016,8696.07,250
+164,4,Trek Fuel EX 8 29 - 2016,8696.07,251
+1049,3,Surly Wednesday Frameset - 2016,8683.75,252
+1605,29,Trek X-Caliber 8 - 2017,8597.95,253
+28,5,Heller Shagamaw Frame - 2016,8587.4,254
+827,28,Surly Karate Monkey 27.5+ Frameset - 2017,8570.97,255
+430,4,Trek Fuel EX 8 29 - 2016,8561.26,256
+235,6,Surly Ice Cream Truck Frameset - 2016,8550.05,257
+338,6,Surly Ice Cream Truck Frameset - 2016,8534.37,258
+1132,10,Surly Straggler - 2016,8498.46,259
+1288,17,Pure Cycles Vine 8-Speed - 2016,8481.9,260
+275,7,Trek Slash 8 27.5 - 2016,8476.52,261
+439,6,Surly Ice Cream Truck Frameset - 2016,8474.16,262
+1356,192,Electra Townie Go! 8i - 2017/2018,8445.95,263
+236,2,Ritchey Timberwolf Frameset - 2016,8429.95,264
+518,5,Heller Shagamaw Frame - 2016,8394.47,265
+767,29,Trek X-Caliber 8 - 2017,8392.94,266
+375,2,Ritchey Timberwolf Frameset - 2016,8376.92,267
+527,4,Trek Fuel EX 8 29 - 2016,8359.22,268
+403,7,Trek Slash 8 27.5 - 2016,8342.94,269
+1221,38,Haro Flightline Two 26 Plus - 2017,8336.42,270
+1370,7,Trek Slash 8 27.5 - 2016,8327.95,271
+128,3,Surly Wednesday Frameset - 2016,8309.93,272
+725,62,Trek Boone 7 - 2017,8309.44,273
+1361,153,Trek Domane SL 7 Women's - 2018,8303.37,274
+136,3,Surly Wednesday Frameset - 2016,8299.97,275
+389,2,Ritchey Timberwolf Frameset - 2016,8281.3,276
+88,7,Trek Slash 8 27.5 - 2016,8280.54,277
+1269,4,Trek Fuel EX 8 29 - 2016,8263.87,278
+1572,115,Trek Fuel EX 8 29 - 2018,8237.95,279
+805,6,Surly Ice Cream Truck Frameset - 2016,8204.53,280
+590,2,Ritchey Timberwolf Frameset - 2016,8200.73,281
+281,7,Trek Slash 8 27.5 - 2016,8177.05,282
+1350,13,Electra Cruiser 1 (24-Inch) - 2016,8127.95,283
+792,2,Ritchey Timberwolf Frameset - 2016,8109.95,284
+891,32,Trek Farley Alloy Frameset - 2017,8096.45,285
+447,3,Surly Wednesday Frameset - 2016,8083.96,286
+712,4,Trek Fuel EX 8 29 - 2016,8072.33,287
+234,7,Trek Slash 8 27.5 - 2016,8069.66,288
+103,3,Surly Wednesday Frameset - 2016,8062.12,289
+777,2,Ritchey Timberwolf Frameset - 2016,8056.77,290
+1577,111,Sun Bicycles Drifter 7 - Women's - 2017,8025.87,291
+1281,36,Surly Troll Frameset - 2017,8011.31,292
+807,3,Surly Wednesday Frameset - 2016,8009.03,293
+1424,140,Trek Remedy 9.8 27.5 - 2018,7999.98,294
+1163,53,Surly Ogre Frameset - 2017,7999.96,295
+1185,19,Pure Cycles William 3-Speed - 2016,7995.8,296
+31,9,Trek Conduit+ - 2016,7993.86,297
+1303,24,Electra Townie Original 21D - 2016,7984.94,298
+579,6,Surly Ice Cream Truck Frameset - 2016,7975.97,299
+981,21,Electra Cruiser 1 (24-Inch) - 2016,7971.23,300
+232,8,Trek Remedy 29 Carbon Frameset - 2016,7967.41,301
+1475,161,Surly ECR - 2018,7952.05,302
+1344,3,Surly Wednesday Frameset - 2016,7951.15,303
+1367,24,Electra Townie Original 21D - 2016,7947.44,304
+1327,48,Trek Emonda S 4 - 2017,7938.94,305
+360,7,Trek Slash 8 27.5 - 2016,7932.95,306
+192,2,Ritchey Timberwolf Frameset - 2016,7918.84,307
+534,2,Ritchey Timberwolf Frameset - 2016,7900.43,308
+195,4,Trek Fuel EX 8 29 - 2016,7855.24,309
+525,6,Surly Ice Cream Truck Frameset - 2016,7848.26,310
+580,9,Trek Conduit+ - 2016,7824.04,311
+1068,45,Haro SR 1.2 - 2017,7823.94,312
+385,7,Trek Slash 8 27.5 - 2016,7791.06,313
+906,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,7783.42,314
+1249,61,Trek Powerfly 8 FS Plus - 2017,7782.87,315
+691,5,Heller Shagamaw Frame - 2016,7747.74,316
+1519,65,Sun Bicycles Lil Bolt Type-R - 2017,7744.69,317
+1029,20,Electra Townie Original 7D EQ - Women's - 2016,7719.96,318
+1526,56,Trek Domane SLR 6 Disc - 2017,7712.46,319
+622,9,Trek Conduit+ - 2016,7688.27,320
+604,9,Trek Conduit+ - 2016,7681.12,321
+1395,48,Trek Emonda S 4 - 2017,7663.95,322
+1440,67,Sun Bicycles Revolutions 24 - Girl's - 2017,7659.34,323
+461,4,Trek Fuel EX 8 29 - 2016,7601.15,324
+276,3,Surly Wednesday Frameset - 2016,7587.52,325
+1149,48,Trek Emonda S 4 - 2017,7575.35,326
+79,6,Surly Ice Cream Truck Frameset - 2016,7568.05,327
+1284,4,Trek Fuel EX 8 29 - 2016,7536.16,328
+1197,9,Trek Conduit+ - 2016,7526.04,329
+653,2,Ritchey Timberwolf Frameset - 2016,7520.04,330
+1484,49,Trek Domane SL 6 - 2017,7487.15,331
+1067,6,Surly Ice Cream Truck Frameset - 2016,7486.33,332
+351,4,Trek Fuel EX 8 29 - 2016,7482.14,333
+1507,11,Surly Straggler 650b - 2016,7447.33,334
+1026,7,Trek Slash 8 27.5 - 2016,7439.98,335
+188,7,Trek Slash 8 27.5 - 2016,7439.98,336
+1511,17,Pure Cycles Vine 8-Speed - 2016,7435.51,337
+239,4,Trek Fuel EX 8 29 - 2016,7404.51,338
+1431,53,Surly Ogre Frameset - 2017,7394.96,339
+929,24,Electra Townie Original 21D - 2016,7350.46,340
+1576,69,Sun Bicycles Cruz 7 - 2017,7350.11,341
+296,9,Trek Conduit+ - 2016,7345.74,342
+662,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,7339.42,343
+1078,10,Surly Straggler - 2016,7327.04,344
+1412,43,Trek Fuel EX 9.8 27.5 Plus - 2017,7256.77,345
+1087,13,Electra Cruiser 1 (24-Inch) - 2016,7253.62,346
+268,6,Surly Ice Cream Truck Frameset - 2016,7251.97,347
+1318,62,Trek Boone 7 - 2017,7228.05,348
+1104,17,Pure Cycles Vine 8-Speed - 2016,7211.72,349
+9,7,Trek Slash 8 27.5 - 2016,7199.98,350
+872,53,Surly Ogre Frameset - 2017,7184.97,351
+1058,29,Trek X-Caliber 8 - 2017,7183.32,352
+1001,45,Haro SR 1.2 - 2017,7179.98,353
+434,9,Trek Conduit+ - 2016,7176.21,354
+1186,27,Surly Big Dummy Frameset - 2017,7159.96,355
+709,48,Trek Emonda S 4 - 2017,7157.35,356
+918,4,Trek Fuel EX 8 29 - 2016,7143.66,357
+1598,49,Trek Domane SL 6 - 2017,7141.97,358
+410,9,Trek Conduit+ - 2016,7139.95,359
+652,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,7130.54,360
+716,4,Trek Fuel EX 8 29 - 2016,7111.04,361
+524,2,Ritchey Timberwolf Frameset - 2016,7105.78,362
+1065,48,Trek Emonda S 4 - 2017,7093.75,363
+1179,33,Surly Wednesday Frameset - 2017,7091.94,364
+1559,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,7084.45,365
+1021,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,7067.96,366
+1524,168,Surly Straggler - 2018,7066.06,367
+862,49,Trek Domane SL 6 - 2017,7063.46,368
+1182,35,Sun Bicycles Spider 3i - 2017,7049.67,369
+257,8,Trek Remedy 29 Carbon Frameset - 2016,7045.16,370
+595,3,Surly Wednesday Frameset - 2016,7042.67,371
+1232,4,Trek Fuel EX 8 29 - 2016,7040.85,372
+661,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,7022.96,373
+1083,33,Surly Wednesday Frameset - 2017,7021.15,374
+703,4,Trek Fuel EX 8 29 - 2016,7004.84,375
+1036,12,Electra Townie Original 21D - 2016,6987.25,376
+671,4,Trek Fuel EX 8 29 - 2016,6978.72,377
+1389,85,Haro Downtown 16 - 2017,6971.55,378
+1544,107,Sun Bicycles Cruz 7 - 2017,6967.17,379
+258,4,Trek Fuel EX 8 29 - 2016,6961.09,380
+481,9,Trek Conduit+ - 2016,6947.95,381
+1295,5,Heller Shagamaw Frame - 2016,6945.77,382
+1034,8,Trek Remedy 29 Carbon Frameset - 2016,6929.1,383
+657,52,Surly Steamroller - 2017,6912.17,384
+1177,62,Trek Boone 7 - 2017,6905.97,385
+95,8,Trek Remedy 29 Carbon Frameset - 2016,6902.47,386
+1456,126,Surly Big Fat Dummy Frameset - 2018,6887.14,387
+810,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,6881.76,388
+438,4,Trek Fuel EX 8 29 - 2016,6872.94,389
+598,4,Trek Fuel EX 8 29 - 2016,6868.95,390
+86,9,Trek Conduit+ - 2016,6866.94,391
+1385,24,Electra Townie Original 21D - 2016,6843.94,392
+1024,28,Surly Karate Monkey 27.5+ Frameset - 2017,6829.53,393
+790,62,Trek Boone 7 - 2017,6824.97,394
+34,8,Trek Remedy 29 Carbon Frameset - 2016,6822.58,395
+12,4,Trek Fuel EX 8 29 - 2016,6816.92,396
+131,4,Trek Fuel EX 8 29 - 2016,6815.95,397
+1470,110,Sun Bicycles Drifter 7 - 2017,6813.75,398
+776,28,Surly Karate Monkey 27.5+ Frameset - 2017,6804.96,399
+1365,58,Trek Madone 9.2 - 2017,6803.97,400
+557,9,Trek Conduit+ - 2016,6794.08,401
+837,51,Trek Silque SLR 8 Women's - 2017,6793.97,402
+469,4,Trek Fuel EX 8 29 - 2016,6784.96,403
+547,5,Heller Shagamaw Frame - 2016,6782.76,404
+971,8,Trek Remedy 29 Carbon Frameset - 2016,6782.34,405
+613,9,Trek Conduit+ - 2016,6764.57,406
+1227,8,Trek Remedy 29 Carbon Frameset - 2016,6762.14,407
+554,3,Surly Wednesday Frameset - 2016,6756.46,408
+983,20,Electra Townie Original 7D EQ - Women's - 2016,6754.94,409
+931,49,Trek Domane SL 6 - 2017,6749.97,410
+145,9,Trek Conduit+ - 2016,6744.77,411
+1139,7,Trek Slash 8 27.5 - 2016,6723.08,412
+1384,32,Trek Farley Alloy Frameset - 2017,6718.55,413
+609,5,Heller Shagamaw Frame - 2016,6715.43,414
+48,4,Trek Fuel EX 8 29 - 2016,6712.85,415
+1590,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,6710.96,416
+1331,145,Trek Domane ALR 5 Disc - 2018,6701.45,417
+1086,5,Heller Shagamaw Frame - 2016,6672.29,418
+1101,51,Trek Silque SLR 8 Women's - 2017,6671.6,419
+413,8,Trek Remedy 29 Carbon Frameset - 2016,6659.96,420
+704,10,Surly Straggler - 2016,6654.47,421
+421,3,Surly Wednesday Frameset - 2016,6611.12,422
+779,8,Trek Remedy 29 Carbon Frameset - 2016,6602.95,423
+1107,41,Haro Shift R3 - 2017,6591.98,424
+840,27,Surly Big Dummy Frameset - 2017,6578.97,425
+1237,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,6578.93,426
+508,2,Ritchey Timberwolf Frameset - 2016,6543.06,427
+1427,139,Trek Remedy 7 27.5 - 2018,6530.91,428
+1059,7,Trek Slash 8 27.5 - 2016,6530.06,429
+240,5,Heller Shagamaw Frame - 2016,6527.64,430
+1615,182,Trek Domane SL 5 Disc - 2018,6516.97,431
+1225,6,Surly Ice Cream Truck Frameset - 2016,6515.95,432
+1135,51,Trek Silque SLR 8 Women's - 2017,6495.97,433
+1573,9,Trek Conduit+ - 2016,6495.53,434
+105,3,Surly Wednesday Frameset - 2016,6489.57,435
+321,4,Trek Fuel EX 8 29 - 2016,6479.94,436
+754,3,Surly Wednesday Frameset - 2016,6468.23,437
+165,2,Ritchey Timberwolf Frameset - 2016,6462.46,438
+292,4,Trek Fuel EX 8 29 - 2016,6448.29,439
+340,10,Surly Straggler - 2016,6416.59,440
+224,6,Surly Ice Cream Truck Frameset - 2016,6416.26,441
+881,50,Trek Silque SLR 7 Women's - 2017,6412.55,442
+1551,207,Trek Boone 7 Disc - 2018,6399.98,443
+262,2,Ritchey Timberwolf Frameset - 2016,6397.47,444
+1443,57,Trek Emonda S 5 - 2017,6396.96,445
+1014,45,Haro SR 1.2 - 2017,6382.95,446
+1591,97,Electra Savannah 3i (20-inch) - Girl's - 2017,6357.92,447
+1589,28,Surly Karate Monkey 27.5+ Frameset - 2017,6355.95,448
+638,53,Surly Ogre Frameset - 2017,6349.36,449
+479,7,Trek Slash 8 27.5 - 2016,6335.66,450
+127,4,Trek Fuel EX 8 29 - 2016,6332.94,451
+761,43,Trek Fuel EX 9.8 27.5 Plus - 2017,6330.57,452
+491,9,Trek Conduit+ - 2016,6319.95,453
+549,3,Surly Wednesday Frameset - 2016,6278.84,454
+23,4,Trek Fuel EX 8 29 - 2016,6265.95,455
+828,24,Electra Townie Original 21D - 2016,6261.96,456
+1383,65,Sun Bicycles Lil Bolt Type-R - 2017,6259.27,457
+19,9,Trek Conduit+ - 2016,6240.55,458
+880,5,Heller Shagamaw Frame - 2016,6239.28,459
+196,3,Surly Wednesday Frameset - 2016,6239.09,460
+440,4,Trek Fuel EX 8 29 - 2016,6229.12,461
+730,13,Electra Cruiser 1 (24-Inch) - 2016,6196.64,462
+539,9,Trek Conduit+ - 2016,6187.15,463
+1399,28,Surly Karate Monkey 27.5+ Frameset - 2017,6183.56,464
+516,5,Heller Shagamaw Frame - 2016,6177.77,465
+370,4,Trek Fuel EX 8 29 - 2016,6169.96,466
+555,7,Trek Slash 8 27.5 - 2016,6155.96,467
+522,4,Trek Fuel EX 8 29 - 2016,6152.65,468
+1469,77,Electra Glam Punk 3i Ladies' - 2017,6150.94,469
+286,7,Trek Slash 8 27.5 - 2016,6142.14,470
+1517,226,Electra Townie Original 21D EQ - 2017/2018,6127.96,471
+252,4,Trek Fuel EX 8 29 - 2016,6126.87,472
+1614,124,Surly Krampus - 2018,6104.04,473
+1414,162,Trek Emonda SL 6 Disc - 2018,6102.96,474
+958,51,Trek Silque SLR 8 Women's - 2017,6089.98,475
+238,7,Trek Slash 8 27.5 - 2016,6089.93,476
+992,7,Trek Slash 8 27.5 - 2016,6074.05,477
+633,5,Heller Shagamaw Frame - 2016,6068.95,478
+519,6,Surly Ice Cream Truck Frameset - 2016,6065.45,479
+197,2,Ritchey Timberwolf Frameset - 2016,6034.97,480
+1247,15,Electra Moto 1 - 2016,6023.95,481
+634,4,Trek Fuel EX 8 29 - 2016,6004.97,482
+509,4,Trek Fuel EX 8 29 - 2016,5989.97,483
+191,3,Surly Wednesday Frameset - 2016,5989.94,484
+886,30,Surly Ice Cream Truck Frameset - 2017,5984.98,485
+708,6,Surly Ice Cream Truck Frameset - 2016,5959.07,486
+85,4,Trek Fuel EX 8 29 - 2016,5927.55,487
+898,16,Electra Townie Original 7D EQ - 2016,5925.56,488
+925,62,Trek Boone 7 - 2017,5925.47,489
+1435,29,Trek X-Caliber 8 - 2017,5923.96,490
+770,11,Surly Straggler 650b - 2016,5922.91,491
+1100,9,Trek Conduit+ - 2016,5922.47,492
+118,3,Surly Wednesday Frameset - 2016,5909.61,493
+1610,36,Surly Troll Frameset - 2017,5894.66,494
+1119,55,Trek Domane S 6 - 2017,5893.56,495
+231,5,Heller Shagamaw Frame - 2016,5893.55,496
+1374,130,Trek Stache Carbon Frameset - 2018,5891.16,497
+903,31,Surly Wednesday - 2017,5887.34,498
+1311,27,Surly Big Dummy Frameset - 2017,5863.45,499
+800,6,Surly Ice Cream Truck Frameset - 2016,5851.93,500
+437,3,Surly Wednesday Frameset - 2016,5841.52,501
+765,12,Electra Townie Original 21D - 2016,5841.1,502
+1324,3,Surly Wednesday Frameset - 2016,5835.86,503
+1187,4,Trek Fuel EX 8 29 - 2016,5834.14,504
+1471,59,Trek Domane S 5 Disc - 2017,5833.97,505
+575,4,Trek Fuel EX 8 29 - 2016,5833.97,506
+738,25,Electra Townie Original 7D - 2015/2016,5812.55,507
+198,6,Surly Ice Cream Truck Frameset - 2016,5809.48,508
+1268,59,Trek Domane S 5 Disc - 2017,5806.04,509
+794,17,Pure Cycles Vine 8-Speed - 2016,5801.93,510
+574,11,Surly Straggler 650b - 2016,5779.82,511
+1408,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,5777.77,512
+627,9,Trek Conduit+ - 2016,5775.54,513
+985,5,Heller Shagamaw Frame - 2016,5768.21,514
+832,16,Electra Townie Original 7D EQ - 2016,5745.96,515
+1152,24,Electra Townie Original 21D - 2016,5732.47,516
+150,3,Surly Wednesday Frameset - 2016,5728.93,517
+1046,17,Pure Cycles Vine 8-Speed - 2016,5723.74,518
+120,6,Surly Ice Cream Truck Frameset - 2016,5716.6,519
+334,3,Surly Wednesday Frameset - 2016,5709.96,520
+329,8,Trek Remedy 29 Carbon Frameset - 2016,5701.11,521
+1279,9,Trek Conduit+ - 2016,5699.98,522
+126,9,Trek Conduit+ - 2016,5699.98,523
+1091,19,Pure Cycles William 3-Speed - 2016,5686.58,524
+299,10,Surly Straggler - 2016,5672.28,525
+20,9,Trek Conduit+ - 2016,5671.13,526
+1322,28,Surly Karate Monkey 27.5+ Frameset - 2017,5665.76,527
+36,3,Surly Wednesday Frameset - 2016,5644.92,528
+1228,20,Electra Townie Original 7D EQ - Women's - 2016,5627.96,529
+212,7,Trek Slash 8 27.5 - 2016,5600.06,530
+1240,15,Electra Moto 1 - 2016,5588.52,531
+358,6,Surly Ice Cream Truck Frameset - 2016,5588.34,532
+1532,209,Trek Crockett 7 Disc - 2018,5579.98,533
+1326,190,Trek Dual Sport+ - 2018,5579.96,534
+313,4,Trek Fuel EX 8 29 - 2016,5578.13,535
+170,7,Trek Slash 8 27.5 - 2016,5565.56,536
+699,24,Electra Townie Original 21D - 2016,5557.33,537
+1275,30,Surly Ice Cream Truck Frameset - 2017,5549.98,538
+684,33,Surly Wednesday Frameset - 2017,5537.98,539
+1238,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,5528.96,540
+1386,150,Trek Emonda SL 7 - 2018,5515.96,541
+991,9,Trek Conduit+ - 2016,5498.37,542
+384,4,Trek Fuel EX 8 29 - 2016,5478.95,543
+1600,36,Surly Troll Frameset - 2017,5470.37,544
+571,4,Trek Fuel EX 8 29 - 2016,5454.98,545
+1157,20,Electra Townie Original 7D EQ - Women's - 2016,5454.45,546
+1404,112,Trek 820 - 2018,5444.96,547
+899,6,Surly Ice Cream Truck Frameset - 2016,5442.07,548
+1052,7,Trek Slash 8 27.5 - 2016,5440.36,549
+169,5,Heller Shagamaw Frame - 2016,5431.9,550
+1375,147,Trek Domane ALR 5 Gravel - 2018,5419.97,551
+1043,20,Electra Townie Original 7D EQ - Women's - 2016,5417.97,552
+707,11,Surly Straggler 650b - 2016,5416.44,553
+45,4,Trek Fuel EX 8 29 - 2016,5404.06,554
+1405,162,Trek Emonda SL 6 Disc - 2018,5399.98,555
+444,10,Surly Straggler - 2016,5395.24,556
+1597,59,Trek Domane S 5 Disc - 2017,5393.98,557
+687,5,Heller Shagamaw Frame - 2016,5382.05,558
+26,2,Ritchey Timberwolf Frameset - 2016,5342.16,559
+343,5,Heller Shagamaw Frame - 2016,5338.96,560
+960,48,Trek Emonda S 4 - 2017,5333.34,561
+1382,81,Electra Amsterdam Fashion 7i Ladies' - 2017,5332.95,562
+1305,9,Trek Conduit+ - 2016,5315.9,563
+1568,105,Sun Bicycles Streamway 7 - 2017,5306.59,564
+944,16,Electra Townie Original 7D EQ - 2016,5299.53,565
+1418,120,Trek Fuel EX 7 29 - 2018,5291.97,566
+32,8,Trek Remedy 29 Carbon Frameset - 2016,5270.94,567
+1613,153,Trek Domane SL 7 Women's - 2018,5257.97,568
+1126,33,Surly Wednesday Frameset - 2017,5244.95,569
+818,19,Pure Cycles William 3-Speed - 2016,5231.85,570
+947,32,Trek Farley Alloy Frameset - 2017,5226.66,571
+259,2,Ritchey Timberwolf Frameset - 2016,5225.95,572
+950,56,Trek Domane SLR 6 Disc - 2017,5224.99,573
+176,2,Ritchey Timberwolf Frameset - 2016,5224.55,574
+838,10,Surly Straggler - 2016,5220.47,575
+954,4,Trek Fuel EX 8 29 - 2016,5219.98,576
+414,4,Trek Fuel EX 8 29 - 2016,5219.98,577
+885,43,Trek Fuel EX 9.8 27.5 Plus - 2017,5188.48,578
+1280,52,Surly Steamroller - 2017,5185.83,579
+556,4,Trek Fuel EX 8 29 - 2016,5179.97,580
+670,28,Surly Karate Monkey 27.5+ Frameset - 2017,5154.15,581
+764,55,Trek Domane S 6 - 2017,5126.95,582
+1028,10,Surly Straggler - 2016,5122.35,583
+1130,54,Trek Domane SL Disc Frameset - 2017,5119.98,584
+373,8,Trek Remedy 29 Carbon Frameset - 2016,5119.35,585
+1273,20,Electra Townie Original 7D EQ - Women's - 2016,5115.96,586
+374,7,Trek Slash 8 27.5 - 2016,5114.09,587
+920,39,Trek Stache 5 - 2017,5107.86,588
+264,3,Surly Wednesday Frameset - 2016,5098.14,589
+570,3,Surly Wednesday Frameset - 2016,5090.42,590
+398,8,Trek Remedy 29 Carbon Frameset - 2016,5080.62,591
+841,9,Trek Conduit+ - 2016,5062.34,592
+333,3,Surly Wednesday Frameset - 2016,5055.11,593
+533,4,Trek Fuel EX 8 29 - 2016,5024.16,594
+400,3,Surly Wednesday Frameset - 2016,5022.96,595
+1579,49,Trek Domane SL 6 - 2017,5019.95,596
+811,45,Haro SR 1.2 - 2017,5017.86,597
+693,5,Heller Shagamaw Frame - 2016,5015.74,598
+263,2,Ritchey Timberwolf Frameset - 2016,5014.96,599
+168,6,Surly Ice Cream Truck Frameset - 2016,5004.6,600
+325,6,Surly Ice Cream Truck Frameset - 2016,4991.97,601
+1457,111,Sun Bicycles Drifter 7 - Women's - 2017,4960.46,602
+1110,56,Trek Domane SLR 6 Disc - 2017,4949.99,603
+979,12,Electra Townie Original 21D - 2016,4922.95,604
+423,2,Ritchey Timberwolf Frameset - 2016,4921.15,605
+542,9,Trek Conduit+ - 2016,4918.37,606
+1183,6,Surly Ice Cream Truck Frameset - 2016,4912.16,607
+228,2,Ritchey Timberwolf Frameset - 2016,4911.44,608
+405,3,Surly Wednesday Frameset - 2016,4890.37,609
+181,10,Surly Straggler - 2016,4877.41,610
+530,2,Ritchey Timberwolf Frameset - 2016,4873.96,611
+1543,93,Haro Shredder 20 Girls - 2017,4868.53,612
+1357,60,Sun Bicycles ElectroLite - 2017,4863.97,613
+1552,41,Haro Shift R3 - 2017,4862.97,614
+632,6,Surly Ice Cream Truck Frameset - 2016,4851.14,615
+629,5,Heller Shagamaw Frame - 2016,4835.38,616
+1263,19,Pure Cycles William 3-Speed - 2016,4829.18,617
+1125,16,Electra Townie Original 7D EQ - 2016,4814.63,618
+391,5,Heller Shagamaw Frame - 2016,4810.56,619
+113,5,Heller Shagamaw Frame - 2016,4803.63,620
+265,9,Trek Conduit+ - 2016,4799.98,621
+1212,37,Haro Flightline One ST - 2017,4789.73,622
+578,8,Trek Remedy 29 Carbon Frameset - 2016,4784.16,623
+53,8,Trek Remedy 29 Carbon Frameset - 2016,4781.93,624
+1521,100,Electra Townie 3i EQ (20-inch) - Boys' - 2017,4779.95,625
+584,8,Trek Remedy 29 Carbon Frameset - 2016,4778.02,626
+76,5,Heller Shagamaw Frame - 2016,4776.79,627
+507,11,Surly Straggler 650b - 2016,4776.04,628
+977,27,Surly Big Dummy Frameset - 2017,4766.83,629
+146,2,Ritchey Timberwolf Frameset - 2016,4765.43,630
+696,7,Trek Slash 8 27.5 - 2016,4762.46,631
+1394,165,Trek 1120 - 2018,4749.98,632
+1527,33,Surly Wednesday Frameset - 2017,4747.36,633
+548,8,Trek Remedy 29 Carbon Frameset - 2016,4746.63,634
+1368,66,Sun Bicycles Revolutions 24 - 2017,4737.26,635
+1480,82,Electra Amsterdam Original 3i Ladies' - 2017,4714.13,636
+1442,160,Trek Emonda SLR 6 - 2018,4700.06,637
+404,9,Trek Conduit+ - 2016,4699.96,638
+132,2,Ritchey Timberwolf Frameset - 2016,4694.96,639
+278,11,Surly Straggler 650b - 2016,4692.86,640
+94,4,Trek Fuel EX 8 29 - 2016,4689.46,641
+1329,13,Electra Cruiser 1 (24-Inch) - 2016,4685.1,642
+357,9,Trek Conduit+ - 2016,4678.76,643
+551,11,Surly Straggler 650b - 2016,4665.55,644
+458,2,Ritchey Timberwolf Frameset - 2016,4655.04,645
+467,10,Surly Straggler - 2016,4654.95,646
+596,5,Heller Shagamaw Frame - 2016,4644.91,647
+297,4,Trek Fuel EX 8 29 - 2016,4639.98,648
+93,2,Ritchey Timberwolf Frameset - 2016,4633.85,649
+298,6,Surly Ice Cream Truck Frameset - 2016,4624.94,650
+1561,181,Trek Domane SL 5 - 2018,4623.96,651
+229,5,Heller Shagamaw Frame - 2016,4617.76,652
+201,7,Trek Slash 8 27.5 - 2016,4616.01,653
+382,8,Trek Remedy 29 Carbon Frameset - 2016,4571.07,654
+245,8,Trek Remedy 29 Carbon Frameset - 2016,4563.09,655
+183,11,Surly Straggler 650b - 2016,4551.11,656
+515,5,Heller Shagamaw Frame - 2016,4544.85,657
+812,40,Trek Fuel EX 9.8 29 - 2017,4539.97,658
+308,7,Trek Slash 8 27.5 - 2016,4534.38,659
+1498,172,Trek Domane ALR Disc Frameset - 2018,4527.97,660
+142,11,Surly Straggler 650b - 2016,4523.33,661
+1415,17,Pure Cycles Vine 8-Speed - 2016,4521.88,662
+941,11,Surly Straggler 650b - 2016,4507.61,663
+523,5,Heller Shagamaw Frame - 2016,4503.75,664
+1337,153,Trek Domane SL 7 Women's - 2018,4499.99,665
+705,61,Trek Powerfly 8 FS Plus - 2017,4499.99,666
+412,7,Trek Slash 8 27.5 - 2016,4497.58,667
+654,9,Trek Conduit+ - 2016,4497.0,668
+565,9,Trek Conduit+ - 2016,4495.27,669
+433,4,Trek Fuel EX 8 29 - 2016,4477.17,670
+135,2,Ritchey Timberwolf Frameset - 2016,4475.46,671
+649,11,Surly Straggler 650b - 2016,4466.65,672
+303,8,Trek Remedy 29 Carbon Frameset - 2016,4464.96,673
+663,17,Pure Cycles Vine 8-Speed - 2016,4464.66,674
+1488,42,Trek Fuel EX 5 27.5 Plus - 2017,4463.98,675
+1142,20,Electra Townie Original 7D EQ - Women's - 2016,4459.22,676
+1416,92,Haro Shredder 20 - 2017,4458.95,677
+368,5,Heller Shagamaw Frame - 2016,4447.72,678
+1205,46,Haro SR 1.3 - 2017,4445.06,679
+1586,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,4443.75,680
+610,3,Surly Wednesday Frameset - 2016,4436.6,681
+67,5,Heller Shagamaw Frame - 2016,4422.94,682
+1084,30,Surly Ice Cream Truck Frameset - 2017,4410.36,683
+1447,148,Trek Domane SL 8 Disc - 2018,4399.99,684
+915,2,Ritchey Timberwolf Frameset - 2016,4397.96,685
+1211,15,Electra Moto 1 - 2016,4394.94,686
+695,57,Trek Emonda S 5 - 2017,4387.97,687
+911,49,Trek Domane SL 6 - 2017,4369.34,688
+731,29,Trek X-Caliber 8 - 2017,4334.06,689
+1210,6,Surly Ice Cream Truck Frameset - 2016,4327.03,690
+178,3,Surly Wednesday Frameset - 2016,4318.45,691
+942,35,Sun Bicycles Spider 3i - 2017,4318.01,692
+1315,16,Electra Townie Original 7D EQ - 2016,4305.96,693
+386,3,Surly Wednesday Frameset - 2016,4299.96,694
+1167,29,Trek X-Caliber 8 - 2017,4298.45,695
+1030,10,Surly Straggler - 2016,4296.18,696
+367,10,Surly Straggler - 2016,4279.57,697
+1335,138,Trek Fuel EX 5 Plus - 2018,4274.98,698
+600,4,Trek Fuel EX 8 29 - 2016,4271.11,699
+1496,214,Electra Tiger Shark 3i - 2018,4270.44,700
+646,4,Trek Fuel EX 8 29 - 2016,4269.96,701
+1485,122,Surly Troll Frameset - 2018,4255.98,702
+1495,137,Heller Shagamaw GX1 - 2018,4242.07,703
+1264,29,Trek X-Caliber 8 - 2017,4236.35,704
+1215,10,Surly Straggler - 2016,4231.12,705
+1352,52,Surly Steamroller - 2017,4226.23,706
+513,7,Trek Slash 8 27.5 - 2016,4214.97,707
+782,16,Electra Townie Original 7D EQ - 2016,4214.95,708
+1252,57,Trek Emonda S 5 - 2017,4210.36,709
+919,7,Trek Slash 8 27.5 - 2016,4205.98,710
+27,5,Heller Shagamaw Frame - 2016,4205.96,711
+1120,30,Surly Ice Cream Truck Frameset - 2017,4204.53,712
+1462,25,Electra Townie Original 7D - 2015/2016,4196.96,713
+73,3,Surly Wednesday Frameset - 2016,4196.03,714
+690,11,Surly Straggler 650b - 2016,4195.31,715
+625,11,Surly Straggler 650b - 2016,4186.53,716
+740,11,Surly Straggler 650b - 2016,4171.95,717
+506,7,Trek Slash 8 27.5 - 2016,4169.98,718
+44,7,Trek Slash 8 27.5 - 2016,4169.98,719
+526,3,Surly Wednesday Frameset - 2016,4169.35,720
+711,5,Heller Shagamaw Frame - 2016,4167.85,721
+1002,8,Trek Remedy 29 Carbon Frameset - 2016,4162.86,722
+33,7,Trek Slash 8 27.5 - 2016,4157.97,723
+817,48,Trek Emonda S 4 - 2017,4156.69,724
+752,12,Electra Townie Original 21D - 2016,4147.66,725
+318,9,Trek Conduit+ - 2016,4135.96,726
+166,10,Surly Straggler - 2016,4132.99,727
+1164,8,Trek Remedy 29 Carbon Frameset - 2016,4130.34,728
+572,3,Surly Wednesday Frameset - 2016,4125.56,729
+842,42,Trek Fuel EX 5 27.5 Plus - 2017,4115.97,730
+248,9,Trek Conduit+ - 2016,4109.06,731
+199,4,Trek Fuel EX 8 29 - 2016,4105.11,732
+798,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,4100.44,733
+290,2,Ritchey Timberwolf Frameset - 2016,4095.01,734
+858,5,Heller Shagamaw Frame - 2016,4094.85,735
+17,5,Heller Shagamaw Frame - 2016,4092.86,736
+460,4,Trek Fuel EX 8 29 - 2016,4067.66,737
+748,16,Electra Townie Original 7D EQ - 2016,4064.84,738
+769,6,Surly Ice Cream Truck Frameset - 2016,4062.33,739
+1486,60,Sun Bicycles ElectroLite - 2017,4050.45,740
+255,2,Ritchey Timberwolf Frameset - 2016,4044.85,741
+315,9,Trek Conduit+ - 2016,4044.78,742
+1454,35,Sun Bicycles Spider 3i - 2017,4041.15,743
+202,8,Trek Remedy 29 Carbon Frameset - 2016,4038.5,744
+342,9,Trek Conduit+ - 2016,4037.96,745
+1340,92,Haro Shredder 20 - 2017,4030.96,746
+15,8,Trek Remedy 29 Carbon Frameset - 2016,4030.06,747
+327,4,Trek Fuel EX 8 29 - 2016,4029.06,748
+848,41,Haro Shift R3 - 2017,4017.44,749
+1092,2,Ritchey Timberwolf Frameset - 2016,4015.65,750
+875,5,Heller Shagamaw Frame - 2016,4012.65,751
+859,13,Electra Cruiser 1 (24-Inch) - 2016,4001.92,752
+1553,12,Electra Townie Original 21D - 2016,4000.16,753
+81,10,Surly Straggler - 2016,3998.36,754
+445,7,Trek Slash 8 27.5 - 2016,3997.97,755
+1155,6,Surly Ice Cream Truck Frameset - 2016,3995.62,756
+1246,45,Haro SR 1.2 - 2017,3994.46,757
+62,8,Trek Remedy 29 Carbon Frameset - 2016,3977.05,758
+1097,19,Pure Cycles William 3-Speed - 2016,3975.23,759
+617,11,Surly Straggler 650b - 2016,3974.63,760
+845,16,Electra Townie Original 7D EQ - 2016,3960.43,761
+1131,60,Sun Bicycles ElectroLite - 2017,3950.36,762
+682,39,Trek Stache 5 - 2017,3935.97,763
+1121,11,Surly Straggler 650b - 2016,3920.66,764
+399,11,Surly Straggler 650b - 2016,3911.86,765
+607,11,Surly Straggler 650b - 2016,3900.66,766
+5,10,Surly Straggler - 2016,3900.06,767
+1411,9,Trek Conduit+ - 2016,3899.98,768
+366,4,Trek Fuel EX 8 29 - 2016,3899.97,769
+1549,119,Trek Kids' Neko - 2018,3899.45,770
+203,3,Surly Wednesday Frameset - 2016,3891.51,771
+1328,129,Trek X-Caliber 7 - 2018,3866.05,772
+1371,8,Trek Remedy 29 Carbon Frameset - 2016,3865.77,773
+721,33,Surly Wednesday Frameset - 2017,3860.15,774
+29,6,Surly Ice Cream Truck Frameset - 2016,3859.93,775
+250,11,Surly Straggler 650b - 2016,3840.88,776
+60,4,Trek Fuel EX 8 29 - 2016,3831.85,777
+1321,11,Surly Straggler 650b - 2016,3824.06,778
+1000,19,Pure Cycles William 3-Speed - 2016,3818.29,779
+813,26,Electra Townie Original 7D EQ - 2016,3818.21,780
+480,4,Trek Fuel EX 8 29 - 2016,3816.46,781
+287,2,Ritchey Timberwolf Frameset - 2016,3810.82,782
+283,9,Trek Conduit+ - 2016,3809.97,783
+806,77,Electra Glam Punk 3i Ladies' - 2017,3804.92,784
+1017,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,3801.65,785
+397,7,Trek Slash 8 27.5 - 2016,3799.99,786
+1265,41,Haro Shift R3 - 2017,3799.16,787
+1301,8,Trek Remedy 29 Carbon Frameset - 2016,3793.16,788
+1612,60,Sun Bicycles ElectroLite - 2017,3781.13,789
+39,3,Surly Wednesday Frameset - 2016,3768.94,790
+1445,52,Surly Steamroller - 2017,3766.63,791
+1502,19,Pure Cycles William 3-Speed - 2016,3764.09,792
+380,11,Surly Straggler 650b - 2016,3763.87,793
+184,4,Trek Fuel EX 8 29 - 2016,3751.87,794
+834,21,Electra Cruiser 1 (24-Inch) - 2016,3750.87,795
+890,16,Electra Townie Original 7D EQ - 2016,3723.83,796
+1160,9,Trek Conduit+ - 2016,3722.98,797
+1007,11,Surly Straggler 650b - 2016,3720.89,798
+641,15,Electra Moto 1 - 2016,3695.47,799
+1200,42,Trek Fuel EX 5 27.5 Plus - 2017,3679.98,800
+1171,10,Surly Straggler - 2016,3671.71,801
+1250,6,Surly Ice Cream Truck Frameset - 2016,3668.93,802
+1479,252,Electra Townie Commute Go! Ladies' - 2018,3659.98,803
+1396,57,Trek Emonda S 5 - 2017,3659.98,804
+668,19,Pure Cycles William 3-Speed - 2016,3658.18,805
+972,63,Trek Boone Race Shop Limited - 2017,3646.98,806
+1419,124,Surly Krampus - 2018,3644.05,807
+1467,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,3643.54,808
+160,11,Surly Straggler 650b - 2016,3642.01,809
+1489,52,Surly Steamroller - 2017,3636.37,810
+25,10,Surly Straggler - 2016,3633.36,811
+735,10,Surly Straggler - 2016,3631.72,812
+567,5,Heller Shagamaw Frame - 2016,3628.51,813
+537,10,Surly Straggler - 2016,3613.72,814
+1235,7,Trek Slash 8 27.5 - 2016,3599.99,815
+464,7,Trek Slash 8 27.5 - 2016,3599.99,816
+1547,106,Sun Bicycles Cruz 3 - 2017,3599.98,817
+1075,48,Trek Emonda S 4 - 2017,3594.86,818
+217,10,Surly Straggler - 2016,3591.27,819
+82,11,Surly Straggler 650b - 2016,3589.57,820
+316,2,Ritchey Timberwolf Frameset - 2016,3586.71,821
+356,4,Trek Fuel EX 8 29 - 2016,3581.46,822
+61,5,Heller Shagamaw Frame - 2016,3570.56,823
+1064,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,3567.56,824
+453,4,Trek Fuel EX 8 29 - 2016,3564.97,825
+470,8,Trek Remedy 29 Carbon Frameset - 2016,3563.02,826
+1330,102,Electra Townie Original 7D - 2017,3546.93,827
+420,3,Surly Wednesday Frameset - 2016,3540.36,828
+1422,80,Sun Bicycles Brickell Tandem CB - 2017,3535.28,829
+435,9,Trek Conduit+ - 2016,3533.03,830
+737,19,Pure Cycles William 3-Speed - 2016,3531.3,831
+112,5,Heller Shagamaw Frame - 2016,3511.74,832
+637,9,Trek Conduit+ - 2016,3509.97,833
+586,11,Surly Straggler 650b - 2016,3505.77,834
+615,6,Surly Ice Cream Truck Frameset - 2016,3502.49,835
+348,5,Heller Shagamaw Frame - 2016,3495.66,836
+791,25,Electra Townie Original 7D - 2015/2016,3489.97,837
+561,5,Heller Shagamaw Frame - 2016,3486.41,838
+585,10,Surly Straggler - 2016,3484.07,839
+91,11,Surly Straggler 650b - 2016,3475.84,840
+602,5,Heller Shagamaw Frame - 2016,3464.02,841
+305,3,Surly Wednesday Frameset - 2016,3463.55,842
+640,30,Surly Ice Cream Truck Frameset - 2017,3447.23,843
+220,3,Surly Wednesday Frameset - 2016,3443.94,844
+850,5,Heller Shagamaw Frame - 2016,3442.81,845
+591,2,Ritchey Timberwolf Frameset - 2016,3439.94,846
+1261,42,Trek Fuel EX 5 27.5 Plus - 2017,3439.46,847
+1203,6,Surly Ice Cream Truck Frameset - 2016,3439.17,848
+388,2,Ritchey Timberwolf Frameset - 2016,3430.96,849
+144,8,Trek Remedy 29 Carbon Frameset - 2016,3419.98,850
+361,6,Surly Ice Cream Truck Frameset - 2016,3403.85,851
+724,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,3390.46,852
+1147,39,Trek Stache 5 - 2017,3377.97,853
+35,5,Heller Shagamaw Frame - 2016,3376.6,854
+179,12,Electra Townie Original 21D - 2016,3372.14,855
+408,2,Ritchey Timberwolf Frameset - 2016,3370.57,856
+486,9,Trek Conduit+ - 2016,3359.97,857
+415,3,Surly Wednesday Frameset - 2016,3359.75,858
+499,11,Surly Straggler 650b - 2016,3349.65,859
+581,8,Trek Remedy 29 Carbon Frameset - 2016,3347.98,860
+1582,75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,3347.97,861
+1298,59,Trek Domane S 5 Disc - 2017,3346.03,862
+1501,15,Electra Moto 1 - 2016,3341.01,863
+501,8,Trek Remedy 29 Carbon Frameset - 2016,3328.06,864
+861,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,3302.17,865
+175,2,Ritchey Timberwolf Frameset - 2016,3292.43,866
+957,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,3292.0,867
+1045,28,Surly Karate Monkey 27.5+ Frameset - 2017,3290.77,868
+956,13,Electra Cruiser 1 (24-Inch) - 2016,3287.32,869
+1407,35,Sun Bicycles Spider 3i - 2017,3285.76,870
+1161,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,3278.05,871
+13,13,Electra Cruiser 1 (24-Inch) - 2016,3278.05,872
+582,10,Surly Straggler - 2016,3276.34,873
+372,5,Heller Shagamaw Frame - 2016,3271.81,874
+546,8,Trek Remedy 29 Carbon Frameset - 2016,3270.23,875
+379,9,Trek Conduit+ - 2016,3269.98,876
+1563,188,Trek XM700+ Lowstep - 2018,3254.99,877
+870,63,Trek Boone Race Shop Limited - 2017,3254.99,878
+871,30,Surly Ice Cream Truck Frameset - 2017,3247.25,879
+702,3,Surly Wednesday Frameset - 2016,3243.75,880
+489,8,Trek Remedy 29 Carbon Frameset - 2016,3239.98,881
+153,8,Trek Remedy 29 Carbon Frameset - 2016,3238.96,882
+1446,227,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,3229.95,883
+1444,90,Trek Precaliber 16 Girls - 2017,3227.39,884
+1602,37,Haro Flightline One ST - 2017,3223.64,885
+40,8,Trek Remedy 29 Carbon Frameset - 2016,3223.18,886
+241,7,Trek Slash 8 27.5 - 2016,3199.99,887
+1022,5,Heller Shagamaw Frame - 2016,3196.2,888
+1032,17,Pure Cycles Vine 8-Speed - 2016,3194.08,889
+793,60,Sun Bicycles ElectroLite - 2017,3191.95,890
+843,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,3185.95,891
+337,4,Trek Fuel EX 8 29 - 2016,3181.54,892
+989,5,Heller Shagamaw Frame - 2016,3172.44,893
+1033,26,Electra Townie Original 7D EQ - 2016,3168.55,894
+914,20,Electra Townie Original 7D EQ - Women's - 2016,3167.96,895
+269,3,Surly Wednesday Frameset - 2016,3163.04,896
+948,20,Electra Townie Original 7D EQ - Women's - 2016,3159.93,897
+11,8,Trek Remedy 29 Carbon Frameset - 2016,3155.96,898
+108,11,Surly Straggler 650b - 2016,3155.05,899
+1373,63,Trek Boone Race Shop Limited - 2017,3149.99,900
+733,55,Trek Domane S 6 - 2017,3146.46,901
+605,11,Surly Straggler 650b - 2016,3144.33,902
+1242,10,Surly Straggler - 2016,3136.04,903
+1089,30,Surly Ice Cream Truck Frameset - 2017,3127.56,904
+1116,11,Surly Straggler 650b - 2016,3126.64,905
+253,11,Surly Straggler 650b - 2016,3126.64,906
+230,11,Surly Straggler 650b - 2016,3126.64,907
+221,11,Surly Straggler 650b - 2016,3126.64,908
+1522,95,"Electra Girl's Hawaii 1 16"" - 2017",3125.07,909
+603,4,Trek Fuel EX 8 29 - 2016,3121.48,910
+588,10,Surly Straggler - 2016,3121.13,911
+1088,30,Surly Ice Cream Truck Frameset - 2017,3110.86,912
+921,48,Trek Emonda S 4 - 2017,3105.96,913
+129,9,Trek Conduit+ - 2016,3104.09,914
+427,12,Electra Townie Original 21D - 2016,3092.94,915
+324,2,Ritchey Timberwolf Frameset - 2016,3074.21,916
+495,9,Trek Conduit+ - 2016,3065.98,917
+1296,2,Ritchey Timberwolf Frameset - 2016,3058.94,918
+1323,20,Electra Townie Original 7D EQ - Women's - 2016,3056.96,919
+336,4,Trek Fuel EX 8 29 - 2016,3049.98,920
+1437,141,Trek Stache 5 - 2018,3039.98,921
+134,2,Ritchey Timberwolf Frameset - 2016,3038.32,922
+186,4,Trek Fuel EX 8 29 - 2016,3032.98,923
+879,2,Ritchey Timberwolf Frameset - 2016,3032.74,924
+1500,41,Haro Shift R3 - 2017,3031.77,925
+130,5,Heller Shagamaw Frame - 2016,3027.03,926
+883,5,Heller Shagamaw Frame - 2016,3022.87,927
+319,11,Surly Straggler 650b - 2016,3018.29,928
+952,20,Electra Townie Original 7D EQ - Women's - 2016,3015.97,929
+630,5,Heller Shagamaw Frame - 2016,3015.31,930
+1050,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,3014.93,931
+69,5,Heller Shagamaw Frame - 2016,3014.32,932
+938,4,Trek Fuel EX 8 29 - 2016,3011.48,933
+984,12,Electra Townie Original 21D - 2016,2991.76,934
+1339,175,Trek Domane SLR Frameset - 2018,2975.99,935
+1025,15,Electra Moto 1 - 2016,2966.64,936
+1077,60,Sun Bicycles ElectroLite - 2017,2963.98,937
+1013,60,Sun Bicycles ElectroLite - 2017,2963.98,938
+272,2,Ritchey Timberwolf Frameset - 2016,2958.3,939
+225,9,Trek Conduit+ - 2016,2942.98,940
+1038,9,Trek Conduit+ - 2016,2932.48,941
+311,5,Heller Shagamaw Frame - 2016,2928.68,942
+302,2,Ritchey Timberwolf Frameset - 2016,2915.11,943
+1213,15,Electra Moto 1 - 2016,2899.48,944
+1074,59,Trek Domane S 5 Disc - 2017,2894.66,945
+1178,13,Electra Cruiser 1 (24-Inch) - 2016,2891.75,946
+1286,81,Electra Amsterdam Fashion 7i Ladies' - 2017,2889.86,947
+369,10,Surly Straggler - 2016,2881.14,948
+1441,6,Surly Ice Cream Truck Frameset - 2016,2877.77,949
+1015,6,Surly Ice Cream Truck Frameset - 2016,2873.94,950
+41,5,Heller Shagamaw Frame - 2016,2867.28,951
+227,3,Surly Wednesday Frameset - 2016,2853.96,952
+455,9,Trek Conduit+ - 2016,2849.99,953
+419,9,Trek Conduit+ - 2016,2849.99,954
+803,52,Surly Steamroller - 2017,2843.07,955
+1244,33,Surly Wednesday Frameset - 2017,2840.05,956
+211,2,Ritchey Timberwolf Frameset - 2016,2835.55,957
+1148,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2834.84,958
+70,3,Surly Wednesday Frameset - 2016,2829.17,959
+442,6,Surly Ice Cream Truck Frameset - 2016,2827.95,960
+97,2,Ritchey Timberwolf Frameset - 2016,2813.56,961
+1458,12,Electra Townie Original 21D - 2016,2804.14,962
+64,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2801.93,963
+1239,15,Electra Moto 1 - 2016,2800.3,964
+545,6,Surly Ice Cream Truck Frameset - 2016,2793.05,965
+644,9,Trek Conduit+ - 2016,2789.99,966
+686,16,Electra Townie Original 7D EQ - 2016,2787.96,967
+1299,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2780.55,968
+1560,41,Haro Shift R3 - 2017,2775.98,969
+1066,12,Electra Townie Original 21D - 2016,2770.96,970
+1093,17,Pure Cycles Vine 8-Speed - 2016,2768.36,971
+635,4,Trek Fuel EX 8 29 - 2016,2754.99,972
+550,4,Trek Fuel EX 8 29 - 2016,2754.99,973
+1063,33,Surly Wednesday Frameset - 2017,2749.35,974
+233,12,Electra Townie Original 21D - 2016,2748.75,975
+912,2,Ritchey Timberwolf Frameset - 2016,2747.24,976
+222,2,Ritchey Timberwolf Frameset - 2016,2744.08,977
+564,4,Trek Fuel EX 8 29 - 2016,2743.98,978
+1571,20,Electra Townie Original 7D EQ - Women's - 2016,2740.76,979
+1400,24,Electra Townie Original 21D - 2016,2738.25,980
+568,5,Heller Shagamaw Frame - 2016,2726.49,981
+162,3,Surly Wednesday Frameset - 2016,2719.73,982
+676,24,Electra Townie Original 21D - 2016,2719.48,983
+1565,37,Haro Flightline One ST - 2017,2719.35,984
+401,10,Surly Straggler - 2016,2718.39,985
+706,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,2717.96,986
+1094,11,Surly Straggler 650b - 2016,2716.77,987
+1037,3,Surly Wednesday Frameset - 2016,2707.83,988
+1062,5,Heller Shagamaw Frame - 2016,2705.01,989
+959,15,Electra Moto 1 - 2016,2701.17,990
+1569,252,Electra Townie Commute Go! Ladies' - 2018,2699.99,991
+1388,251,Electra Townie Commute Go! - 2018,2699.99,992
+576,9,Trek Conduit+ - 2016,2699.99,993
+963,4,Trek Fuel EX 8 29 - 2016,2696.99,994
+312,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2687.14,995
+1005,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2681.96,996
+758,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2681.16,997
+402,5,Heller Shagamaw Frame - 2016,2672.69,998
+1150,21,Electra Cruiser 1 (24-Inch) - 2016,2664.96,999
+1236,32,Trek Farley Alloy Frameset - 2017,2658.76,1000
+1332,93,Haro Shredder 20 Girls - 2017,2658.15,1001
+63,3,Surly Wednesday Frameset - 2016,2653.07,1002
+1099,13,Electra Cruiser 1 (24-Inch) - 2016,2643.24,1003
+24,3,Surly Wednesday Frameset - 2016,2635.12,1004
+852,46,Haro SR 1.3 - 2017,2622.58,1005
+1103,46,Haro SR 1.3 - 2017,2615.98,1006
+1108,45,Haro SR 1.2 - 2017,2605.28,1007
+260,10,Surly Straggler - 2016,2599.17,1008
+1270,54,Trek Domane SL Disc Frameset - 2017,2559.99,1009
+1201,13,Electra Cruiser 1 (24-Inch) - 2016,2548.97,1010
+190,3,Surly Wednesday Frameset - 2016,2546.47,1011
+1508,37,Haro Flightline One ST - 2017,2524.15,1012
+1307,53,Surly Ogre Frameset - 2017,2518.15,1013
+1146,11,Surly Straggler 650b - 2016,2511.46,1014
+978,25,Electra Townie Original 7D - 2015/2016,2509.95,1015
+697,5,Heller Shagamaw Frame - 2016,2509.88,1016
+1557,163,Surly Pack Rat - 2018,2509.14,1017
+396,5,Heller Shagamaw Frame - 2016,2501.76,1018
+713,53,Surly Ogre Frameset - 2017,2500.44,1019
+50,3,Surly Wednesday Frameset - 2016,2497.96,1020
+1285,6,Surly Ice Cream Truck Frameset - 2016,2484.43,1021
+1609,96,Electra Moto 3i (20-inch) - Boy's - 2017,2483.15,1022
+1477,210,Surly Straggler - 2018,2478.4,1023
+976,26,Electra Townie Original 7D EQ - 2016,2474.97,1024
+140,3,Surly Wednesday Frameset - 2016,2469.96,1025
+237,15,Electra Moto 1 - 2016,2465.46,1026
+990,6,Surly Ice Cream Truck Frameset - 2016,2452.95,1027
+16,8,Trek Remedy 29 Carbon Frameset - 2016,2449.75,1028
+1494,178,Trek Domane AL 2 - 2018,2448.95,1029
+1011,16,Electra Townie Original 7D EQ - 2016,2446.94,1030
+454,13,Electra Cruiser 1 (24-Inch) - 2016,2432.94,1031
+317,10,Surly Straggler - 2016,2431.16,1032
+77,20,Electra Townie Original 7D EQ - Women's - 2016,2427.96,1033
+747,33,Surly Wednesday Frameset - 2017,2426.99,1034
+520,10,Surly Straggler - 2016,2420.55,1035
+1380,229,Electra Cruiser Lux 1 - 2016/2018,2419.76,1036
+504,2,Ritchey Timberwolf Frameset - 2016,2414.96,1037
+1128,10,Surly Straggler - 2016,2411.47,1038
+552,2,Ritchey Timberwolf Frameset - 2016,2402.48,1039
+392,3,Surly Wednesday Frameset - 2016,2385.96,1040
+350,3,Surly Wednesday Frameset - 2016,2380.96,1041
+83,3,Surly Wednesday Frameset - 2016,2379.97,1042
+1048,3,Surly Wednesday Frameset - 2016,2379.46,1043
+678,37,Haro Flightline One ST - 2017,2371.16,1044
+760,21,Electra Cruiser 1 (24-Inch) - 2016,2362.16,1045
+597,8,Trek Remedy 29 Carbon Frameset - 2016,2360.39,1046
+1267,27,Surly Big Dummy Frameset - 2017,2357.96,1047
+254,3,Surly Wednesday Frameset - 2016,2346.66,1048
+285,2,Ritchey Timberwolf Frameset - 2016,2337.46,1049
+618,11,Surly Straggler 650b - 2016,2335.52,1050
+967,66,Sun Bicycles Revolutions 24 - 2017,2333.36,1051
+428,5,Heller Shagamaw Frame - 2016,2329.58,1052
+1452,86,Trek Girl's Kickster - 2017,2320.56,1053
+406,4,Trek Fuel EX 8 29 - 2016,2319.99,1054
+1461,48,Trek Emonda S 4 - 2017,2319.98,1055
+1031,27,Surly Big Dummy Frameset - 2017,2319.97,1056
+722,3,Surly Wednesday Frameset - 2016,2319.75,1057
+1353,86,Trek Girl's Kickster - 2017,2312.44,1058
+1290,36,Surly Troll Frameset - 2017,2309.3,1059
+152,6,Surly Ice Cream Truck Frameset - 2016,2299.95,1060
+1019,30,Surly Ice Cream Truck Frameset - 2017,2297.76,1061
+878,6,Surly Ice Cream Truck Frameset - 2016,2289.67,1062
+821,6,Surly Ice Cream Truck Frameset - 2016,2283.81,1063
+908,41,Haro Shift R3 - 2017,2282.97,1064
+593,3,Surly Wednesday Frameset - 2016,2264.97,1065
+815,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,2259.34,1066
+808,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,2258.12,1067
+532,12,Electra Townie Original 21D - 2016,2252.91,1068
+185,8,Trek Remedy 29 Carbon Frameset - 2016,2249.98,1069
+734,3,Surly Wednesday Frameset - 2016,2230.55,1070
+902,12,Electra Townie Original 21D - 2016,2228.25,1071
+1481,53,Surly Ogre Frameset - 2017,2222.97,1072
+450,5,Heller Shagamaw Frame - 2016,2222.87,1073
+1314,52,Surly Steamroller - 2017,2217.64,1074
+536,2,Ritchey Timberwolf Frameset - 2016,2214.05,1075
+666,39,Trek Stache 5 - 2017,2208.97,1076
+876,17,Pure Cycles Vine 8-Speed - 2016,2205.76,1077
+1293,38,Haro Flightline Two 26 Plus - 2017,2200.94,1078
+988,12,Electra Townie Original 21D - 2016,2200.86,1079
+277,6,Surly Ice Cream Truck Frameset - 2016,2197.95,1080
+474,11,Surly Straggler 650b - 2016,2197.89,1081
+1154,17,Pure Cycles Vine 8-Speed - 2016,2195.57,1082
+498,10,Surly Straggler - 2016,2195.05,1083
+1143,48,Trek Emonda S 4 - 2017,2190.57,1084
+7,3,Surly Wednesday Frameset - 2016,2165.08,1085
+475,17,Pure Cycles Vine 8-Speed - 2016,2157.92,1086
+261,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2155.17,1087
+826,36,Surly Troll Frameset - 2017,2141.68,1088
+896,10,Surly Straggler - 2016,2136.53,1089
+1426,20,Electra Townie Original 7D EQ - Women's - 2016,2135.06,1090
+431,6,Surly Ice Cream Truck Frameset - 2016,2133.93,1091
+218,2,Ritchey Timberwolf Frameset - 2016,2123.56,1092
+1076,73,Sun Bicycles Brickell Tandem 7 - 2017,2120.66,1093
+1423,71,Sun Bicycles Atlas X-Type - 2017,2119.26,1094
+620,5,Heller Shagamaw Frame - 2016,2113.58,1095
+673,5,Heller Shagamaw Frame - 2016,2112.3,1096
+89,5,Heller Shagamaw Frame - 2016,2100.92,1097
+933,21,Electra Cruiser 1 (24-Inch) - 2016,2099.96,1098
+1304,17,Pure Cycles Vine 8-Speed - 2016,2093.41,1099
+346,13,Electra Cruiser 1 (24-Inch) - 2016,2090.66,1100
+21,10,Surly Straggler - 2016,2083.16,1101
+651,79,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,2082.14,1102
+47,6,Surly Ice Cream Truck Frameset - 2016,2069.45,1103
+1054,16,Electra Townie Original 7D EQ - 2016,2069.37,1104
+1012,8,Trek Remedy 29 Carbon Frameset - 2016,2065.98,1105
+935,6,Surly Ice Cream Truck Frameset - 2016,2061.75,1106
+1072,36,Surly Troll Frameset - 2017,2059.93,1107
+78,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2052.35,1108
+540,19,Pure Cycles William 3-Speed - 2016,2042.06,1109
+1248,12,Electra Townie Original 21D - 2016,2032.44,1110
+335,2,Ritchey Timberwolf Frameset - 2016,2024.06,1111
+1392,87,Trek Precaliber 12 Boys - 2017,2013.97,1112
+723,16,Electra Townie Original 7D EQ - 2016,2011.46,1113
+631,15,Electra Moto 1 - 2016,2008.76,1114
+773,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2006.06,1115
+825,19,Pure Cycles William 3-Speed - 2016,2004.08,1116
+830,85,Haro Downtown 16 - 2017,1999.35,1117
+417,6,Surly Ice Cream Truck Frameset - 2016,1990.16,1118
+1208,12,Electra Townie Original 21D - 2016,1988.05,1119
+1381,214,Electra Tiger Shark 3i - 2018,1987.97,1120
+71,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,1984.07,1121
+503,10,Surly Straggler - 2016,1973.73,1122
+182,24,Electra Townie Original 21D - 2016,1972.96,1123
+156,6,Surly Ice Cream Truck Frameset - 2016,1970.59,1124
+426,10,Surly Straggler - 2016,1964.08,1125
+1401,112,Trek 820 - 2018,1961.87,1126
+377,8,Trek Remedy 29 Carbon Frameset - 2016,1961.08,1127
+1192,24,Electra Townie Original 21D - 2016,1951.35,1128
+831,11,Surly Straggler 650b - 2016,1950.58,1129
+1173,17,Pure Cycles Vine 8-Speed - 2016,1949.64,1130
+1539,6,Surly Ice Cream Truck Frameset - 2016,1937.96,1131
+376,2,Ritchey Timberwolf Frameset - 2016,1934.96,1132
+383,13,Electra Cruiser 1 (24-Inch) - 2016,1929.51,1133
+493,15,Electra Moto 1 - 2016,1926.58,1134
+55,15,Electra Moto 1 - 2016,1904.46,1135
+986,26,Electra Townie Original 7D EQ - 2016,1902.56,1136
+1151,30,Surly Ice Cream Truck Frameset - 2017,1899.98,1137
+543,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,1899.17,1138
+477,6,Surly Ice Cream Truck Frameset - 2016,1894.54,1139
+592,16,Electra Townie Original 7D EQ - 2016,1891.11,1140
+835,2,Ritchey Timberwolf Frameset - 2016,1885.88,1141
+173,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1876.46,1142
+1230,32,Trek Farley Alloy Frameset - 2017,1868.96,1143
+816,64,Electra Townie Original 7D - 2017,1863.97,1144
+788,13,Electra Cruiser 1 (24-Inch) - 2016,1860.58,1145
+727,78,Sun Bicycles Biscayne Tandem CB - 2017,1856.61,1146
+939,5,Heller Shagamaw Frame - 2016,1856.08,1147
+1272,16,Electra Townie Original 7D EQ - 2016,1850.06,1148
+784,16,Electra Townie Original 7D EQ - 2016,1847.06,1149
+1260,8,Trek Remedy 29 Carbon Frameset - 2016,1845.88,1150
+553,12,Electra Townie Original 21D - 2016,1841.62,1151
+411,2,Ritchey Timberwolf Frameset - 2016,1837.47,1152
+280,13,Electra Cruiser 1 (24-Inch) - 2016,1832.06,1153
+345,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,1831.18,1154
+866,13,Electra Cruiser 1 (24-Inch) - 2016,1829.67,1155
+783,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1818.45,1156
+72,12,Electra Townie Original 21D - 2016,1806.41,1157
+888,26,Electra Townie Original 7D EQ - 2016,1805.97,1158
+667,3,Surly Wednesday Frameset - 2016,1804.86,1159
+688,8,Trek Remedy 29 Carbon Frameset - 2016,1800.48,1160
+1351,133,Trek Procaliber Frameset - 2018,1797.97,1161
+1391,223,Electra Cruiser Lux 3i - 2018,1793.76,1162
+51,13,Electra Cruiser 1 (24-Inch) - 2016,1786.47,1163
+256,11,Surly Straggler 650b - 2016,1769.38,1164
+139,3,Surly Wednesday Frameset - 2016,1765.13,1165
+1259,19,Pure Cycles William 3-Speed - 2016,1763.19,1166
+54,3,Surly Wednesday Frameset - 2016,1759.98,1167
+563,6,Surly Ice Cream Truck Frameset - 2016,1758.51,1168
+750,72,Sun Bicycles Biscayne Tandem 7 - 2017,1755.37,1169
+814,65,Sun Bicycles Lil Bolt Type-R - 2017,1754.15,1170
+624,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1754.05,1171
+1231,70,Electra Amsterdam Original 3i - 2015/2017,1753.77,1172
+465,6,Surly Ice Cream Truck Frameset - 2016,1745.96,1173
+443,5,Heller Shagamaw Frame - 2016,1734.93,1174
+407,5,Heller Shagamaw Frame - 2016,1734.93,1175
+1483,226,Electra Townie Original 21D EQ - 2017/2018,1730.27,1176
+531,6,Surly Ice Cream Truck Frameset - 2016,1720.97,1177
+1138,13,Electra Cruiser 1 (24-Inch) - 2016,1716.55,1178
+171,8,Trek Remedy 29 Carbon Frameset - 2016,1709.99,1179
+409,15,Electra Moto 1 - 2016,1709.37,1180
+1531,128,Surly ECR 27.5 - 2018,1709.1,1181
+266,6,Surly Ice Cream Truck Frameset - 2016,1708.37,1182
+114,2,Ritchey Timberwolf Frameset - 2016,1705.96,1183
+59,2,Ritchey Timberwolf Frameset - 2016,1703.68,1184
+2,16,Electra Townie Original 7D EQ - 2016,1697.97,1185
+363,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1694.06,1186
+669,16,Electra Townie Original 7D EQ - 2016,1692.57,1187
+98,2,Ritchey Timberwolf Frameset - 2016,1692.54,1188
+1057,97,Electra Savannah 3i (20-inch) - Girl's - 2017,1690.66,1189
+1478,100,Electra Townie 3i EQ (20-inch) - Boys' - 2017,1681.97,1190
+1342,60,Sun Bicycles ElectroLite - 2017,1681.48,1191
+623,8,Trek Remedy 29 Carbon Frameset - 2016,1673.99,1192
+1503,217,Electra Straight 8 3i - 2018,1673.97,1193
+1474,123,Trek Farley Carbon Frameset - 2018,1669.98,1194
+1199,32,Trek Farley Alloy Frameset - 2017,1662.05,1195
+999,70,Electra Amsterdam Original 3i - 2015/2017,1655.07,1196
+751,45,Haro SR 1.2 - 2017,1652.98,1197
+560,16,Electra Townie Original 7D EQ - 2016,1649.97,1198
+204,6,Surly Ice Cream Truck Frameset - 2016,1646.38,1199
+117,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1644.52,1200
+997,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1635.55,1201
+219,5,Heller Shagamaw Frame - 2016,1626.78,1202
+216,16,Electra Townie Original 7D EQ - 2016,1625.96,1203
+1141,8,Trek Remedy 29 Carbon Frameset - 2016,1619.99,1204
+155,8,Trek Remedy 29 Carbon Frameset - 2016,1619.99,1205
+92,8,Trek Remedy 29 Carbon Frameset - 2016,1619.99,1206
+1537,237,Electra Relic 3i - 2018,1614.98,1207
+994,37,Haro Flightline One ST - 2017,1613.39,1208
+1073,13,Electra Cruiser 1 (24-Inch) - 2016,1611.07,1209
+606,6,Surly Ice Cream Truck Frameset - 2016,1605.08,1210
+742,45,Haro SR 1.2 - 2017,1601.37,1211
+675,17,Pure Cycles Vine 8-Speed - 2016,1600.09,1212
+1082,29,Trek X-Caliber 8 - 2017,1599.98,1213
+577,3,Surly Wednesday Frameset - 2016,1599.98,1214
+1174,6,Surly Ice Cream Truck Frameset - 2016,1595.67,1215
+1172,78,Sun Bicycles Biscayne Tandem CB - 2017,1590.85,1216
+745,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1585.16,1217
+323,13,Electra Cruiser 1 (24-Inch) - 2016,1582.16,1218
+74,6,Surly Ice Cream Truck Frameset - 2016,1577.07,1219
+1081,52,Surly Steamroller - 2017,1576.78,1220
+1217,73,Sun Bicycles Brickell Tandem 7 - 2017,1567.47,1221
+998,26,Electra Townie Original 7D EQ - 2016,1567.17,1222
+352,11,Surly Straggler 650b - 2016,1560.78,1223
+569,16,Electra Townie Original 7D EQ - 2016,1559.97,1224
+962,64,Electra Townie Original 7D - 2017,1556.78,1225
+995,16,Electra Townie Original 7D EQ - 2016,1553.97,1226
+1360,31,Surly Wednesday - 2017,1551.34,1227
+768,31,Surly Wednesday - 2017,1546.38,1228
+84,15,Electra Moto 1 - 2016,1543.76,1229
+1379,15,Electra Moto 1 - 2016,1538.96,1230
+1184,16,Electra Townie Original 7D EQ - 2016,1536.12,1231
+43,12,Electra Townie Original 21D - 2016,1530.96,1232
+149,12,Electra Townie Original 21D - 2016,1525.16,1233
+490,12,Electra Townie Original 21D - 2016,1525.15,1234
+3,3,Surly Wednesday Frameset - 2016,1519.98,1235
+1432,161,Surly ECR - 2018,1519.2,1236
+514,17,Pure Cycles Vine 8-Speed - 2016,1516.34,1237
+1096,11,Surly Straggler 650b - 2016,1512.89,1238
+57,13,Electra Cruiser 1 (24-Inch) - 2016,1509.47,1239
+205,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1502.96,1240
+562,25,Electra Townie Original 7D - 2015/2016,1499.97,1241
+87,20,Electra Townie Original 7D EQ - Women's - 2016,1499.97,1242
+1004,36,Surly Troll Frameset - 2017,1499.38,1243
+1206,29,Trek X-Caliber 8 - 2017,1497.48,1244
+1127,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,1494.96,1245
+306,10,Surly Straggler - 2016,1490.29,1246
+535,15,Electra Moto 1 - 2016,1485.46,1247
+492,6,Surly Ice Cream Truck Frameset - 2016,1478.96,1248
+309,3,Surly Wednesday Frameset - 2016,1472.48,1249
+1018,76,"Electra Girl's Hawaii 1 16"" - 2017",1467.96,1250
+1111,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1464.26,1251
+138,6,Surly Ice Cream Truck Frameset - 2016,1455.97,1252
+587,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,1450.02,1253
+809,26,Electra Townie Original 7D EQ - 2016,1441.16,1254
+1358,257,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,1439.98,1255
+913,24,Electra Townie Original 21D - 2016,1422.96,1256
+1070,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,1422.48,1257
+1278,32,Trek Farley Alloy Frameset - 2017,1416.57,1258
+215,12,Electra Townie Original 21D - 2016,1407.55,1259
+448,6,Surly Ice Cream Truck Frameset - 2016,1405.96,1260
+829,103,Sun Bicycles Streamway 3 - 2017,1402.77,1261
+616,16,Electra Townie Original 7D EQ - 2016,1399.98,1262
+1451,117,Trek Ticket S Frame - 2018,1396.49,1263
+291,6,Surly Ice Cream Truck Frameset - 2016,1395.16,1264
+775,39,Trek Stache 5 - 2017,1394.99,1265
+1509,215,Electra Queen of Hearts 3i - 2018,1394.98,1266
+1354,166,Trek Domane AL 2 Women's - 2018,1394.98,1267
+1398,53,Surly Ogre Frameset - 2017,1392.27,1268
+66,2,Ritchey Timberwolf Frameset - 2016,1390.47,1269
+1153,6,Surly Ice Cream Truck Frameset - 2016,1389.77,1270
+485,13,Electra Cruiser 1 (24-Inch) - 2016,1382.97,1271
+104,19,Pure Cycles William 3-Speed - 2016,1378.19,1272
+80,17,Pure Cycles Vine 8-Speed - 2016,1378.18,1273
+8,20,Electra Townie Original 7D EQ - Women's - 2016,1372.47,1274
+1218,32,Trek Farley Alloy Frameset - 2017,1368.07,1275
+1266,48,Trek Emonda S 4 - 2017,1367.98,1276
+917,41,Haro Shift R3 - 2017,1367.09,1277
+612,13,Electra Cruiser 1 (24-Inch) - 2016,1364.94,1278
+284,20,Electra Townie Original 7D EQ - Women's - 2016,1359.98,1279
+1188,66,Sun Bicycles Revolutions 24 - 2017,1353.75,1280
+425,6,Surly Ice Cream Truck Frameset - 2016,1351.72,1281
+683,2,Ritchey Timberwolf Frameset - 2016,1349.98,1282
+4,2,Ritchey Timberwolf Frameset - 2016,1349.98,1283
+459,11,Surly Straggler 650b - 2016,1344.79,1284
+1535,75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,1339.47,1285
+90,3,Surly Wednesday Frameset - 2016,1337.08,1286
+446,16,Electra Townie Original 7D EQ - 2016,1331.97,1287
+488,13,Electra Cruiser 1 (24-Inch) - 2016,1328.65,1288
+868,46,Haro SR 1.3 - 2017,1311.29,1289
+344,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1307.62,1290
+1256,44,Haro SR 1.1 - 2017,1304.98,1291
+1253,21,Electra Cruiser 1 (24-Inch) - 2016,1303.06,1292
+996,32,Trek Farley Alloy Frameset - 2017,1301.47,1293
+1008,2,Ritchey Timberwolf Frameset - 2016,1287.57,1294
+893,45,Haro SR 1.2 - 2017,1285.97,1295
+656,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1279.06,1296
+974,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1277.97,1297
+270,15,Electra Moto 1 - 2016,1276.98,1298
+521,5,Heller Shagamaw Frame - 2016,1272.78,1299
+111,12,Electra Townie Original 21D - 2016,1265.97,1300
+247,3,Surly Wednesday Frameset - 2016,1264.98,1301
+500,12,Electra Townie Original 21D - 2016,1260.97,1302
+923,6,Surly Ice Cream Truck Frameset - 2016,1258.97,1303
+1406,113,Trek Marlin 5 - 2018,1257.97,1304
+756,17,Pure Cycles Vine 8-Speed - 2016,1256.09,1305
+187,5,Heller Shagamaw Frame - 2016,1254.94,1306
+1465,70,Electra Amsterdam Original 3i - 2015/2017,1253.98,1307
+1312,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1250.86,1308
+339,13,Electra Cruiser 1 (24-Inch) - 2016,1249.97,1309
+1490,99,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,1248.97,1310
+1455,101,Electra Townie 7D (20-inch) - Boys' - 2017,1245.97,1311
+1313,33,Surly Wednesday Frameset - 2017,1243.78,1312
+174,19,Pure Cycles William 3-Speed - 2016,1240.18,1313
+1085,64,Electra Townie Original 7D - 2017,1238.57,1314
+1193,27,Surly Big Dummy Frameset - 2017,1234.97,1315
+1207,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,1233.67,1316
+293,6,Surly Ice Cream Truck Frameset - 2016,1229.09,1317
+1376,5,Heller Shagamaw Frame - 2016,1228.52,1318
+1079,70,Electra Amsterdam Original 3i - 2015/2017,1227.58,1319
+924,36,Surly Troll Frameset - 2017,1226.38,1320
+864,13,Electra Cruiser 1 (24-Inch) - 2016,1217.26,1321
+1241,71,Sun Bicycles Atlas X-Type - 2017,1210.27,1322
+1372,283,Electra Heartchya 1 (20-inch) - Girl's - 2018,1209.47,1323
+822,53,Surly Ogre Frameset - 2017,1208.48,1324
+1594,79,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,1205.97,1325
+58,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1200.54,1326
+1523,311,Electra Townie Commute 8D - 2018,1199.98,1327
+538,2,Ritchey Timberwolf Frameset - 2016,1199.98,1328
+353,2,Ritchey Timberwolf Frameset - 2016,1199.98,1329
+865,34,Trek Session DH 27.5 Carbon Frameset - 2017,1197.07,1330
+394,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1196.97,1331
+877,73,Sun Bicycles Brickell Tandem 7 - 2017,1194.28,1332
+436,3,Surly Wednesday Frameset - 2016,1189.98,1333
+789,93,Haro Shredder 20 Girls - 2017,1174.57,1334
+647,13,Electra Cruiser 1 (24-Inch) - 2016,1172.97,1335
+544,12,Electra Townie Original 21D - 2016,1165.08,1336
+1530,116,Trek Marlin 7 - 2017/2018,1160.97,1337
+833,20,Electra Townie Original 7D EQ - Women's - 2016,1139.98,1338
+422,20,Electra Townie Original 7D EQ - Women's - 2016,1139.98,1339
+378,26,Electra Townie Original 7D EQ - 2016,1139.98,1340
+37,16,Electra Townie Original 7D EQ - 2016,1139.98,1341
+795,95,"Electra Girl's Hawaii 1 16"" - 2017",1139.96,1342
+1459,258,Electra Amsterdam Royal 8i - 2017/2018,1133.91,1343
+679,15,Electra Moto 1 - 2016,1132.97,1344
+1051,46,Haro SR 1.3 - 2017,1127.99,1345
+1109,72,Sun Bicycles Biscayne Tandem 7 - 2017,1115.98,1346
+611,16,Electra Townie Original 7D EQ - 2016,1115.98,1347
+56,20,Electra Townie Original 7D EQ - Women's - 2016,1115.98,1348
+1580,86,Trek Girl's Kickster - 2017,1114.17,1349
+1320,93,Haro Shredder 20 Girls - 2017,1113.27,1350
+22,15,Electra Moto 1 - 2016,1104.47,1351
+969,36,Surly Troll Frameset - 2017,1101.68,1352
+1289,3,Surly Wednesday Frameset - 2016,1099.48,1353
+936,44,Haro SR 1.1 - 2017,1096.18,1354
+922,68,Sun Bicycles Cruz 3 - 2017,1094.98,1355
+418,12,Electra Townie Original 21D - 2016,1092.48,1356
+1294,44,Haro SR 1.1 - 2017,1082.97,1357
+1564,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1079.98,1358
+177,20,Electra Townie Original 7D EQ - Women's - 2016,1079.98,1359
+456,17,Pure Cycles Vine 8-Speed - 2016,1076.93,1360
+200,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1072.16,1361
+1134,36,Surly Troll Frameset - 2017,1064.68,1362
+1165,65,Sun Bicycles Lil Bolt Type-R - 2017,1063.89,1363
+244,19,Pure Cycles William 3-Speed - 2016,1060.55,1364
+1009,44,Haro SR 1.1 - 2017,1060.17,1365
+909,5,Heller Shagamaw Frame - 2016,1056.79,1366
+1429,70,Electra Amsterdam Original 3i - 2015/2017,1055.98,1367
+594,21,Electra Cruiser 1 (24-Inch) - 2016,1052.97,1368
+1027,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1052.96,1369
+856,38,Haro Flightline Two 26 Plus - 2017,1044.98,1370
+355,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1042.17,1371
+1436,244,Electra Townie Original 21D Ladies' - 2018,1041.58,1372
+1156,86,Trek Girl's Kickster - 2017,1037.37,1373
+289,13,Electra Cruiser 1 (24-Inch) - 2016,1034.28,1374
+1166,103,Sun Bicycles Streamway 3 - 2017,1026.7,1375
+1417,219,Electra Moto 3i - 2018,1023.98,1376
+529,12,Electra Townie Original 21D - 2016,1022.98,1377
+365,24,Electra Townie Original 21D - 2016,1022.98,1378
+1258,94,Haro Shredder Pro 20 - 2017,1019.96,1379
+1608,231,Electra Cruiser Lux 3i Ladies' - 2018,1006.98,1380
+589,15,Electra Moto 1 - 2016,1006.98,1381
+307,15,Electra Moto 1 - 2016,1006.98,1382
+759,78,Sun Bicycles Biscayne Tandem CB - 2017,1001.61,1383
+851,30,Surly Ice Cream Truck Frameset - 2017,999.48,1384
+416,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,997.17,1385
+1145,105,Sun Bicycles Streamway 7 - 2017,993.22,1386
+251,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,992.97,1387
+1274,81,Electra Amsterdam Fashion 7i Ladies' - 2017,989.99,1388
+1159,12,Electra Townie Original 21D - 2016,989.98,1389
+889,12,Electra Townie Original 21D - 2016,989.98,1390
+462,12,Electra Townie Original 21D - 2016,989.98,1391
+193,12,Electra Townie Original 21D - 2016,989.98,1392
+123,12,Electra Townie Original 21D - 2016,989.98,1393
+441,12,Electra Townie Original 21D - 2016,988.48,1394
+1583,15,Electra Moto 1 - 2016,967.47,1395
+472,15,Electra Moto 1 - 2016,962.97,1396
+940,75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,959.98,1397
+674,26,Electra Townie Original 7D EQ - 2016,959.98,1398
+349,20,Electra Townie Original 7D EQ - Women's - 2016,959.98,1399
+189,16,Electra Townie Original 7D EQ - 2016,959.98,1400
+147,26,Electra Townie Original 7D EQ - 2016,959.98,1401
+206,20,Electra Townie Original 7D EQ - Women's - 2016,954.98,1402
+628,15,Electra Moto 1 - 2016,953.98,1403
+1607,29,Trek X-Caliber 8 - 2017,949.99,1404
+1056,3,Surly Wednesday Frameset - 2016,949.99,1405
+364,25,Electra Townie Original 7D - 2015/2016,949.98,1406
+1158,74,Electra Cruiser Lux 1 - 2017,949.17,1407
+1554,166,Trek Domane AL 2 Women's - 2018,936.48,1408
+762,102,Electra Townie Original 7D - 2017,930.98,1409
+497,25,Electra Townie Original 7D - 2015/2016,929.98,1410
+943,25,Electra Townie Original 7D - 2015/2016,927.98,1411
+151,17,Pure Cycles Vine 8-Speed - 2016,926.09,1412
+109,6,Surly Ice Cream Truck Frameset - 2016,923.07,1413
+496,13,Electra Cruiser 1 (24-Inch) - 2016,914.97,1414
+928,71,Sun Bicycles Atlas X-Type - 2017,912.27,1415
+855,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,908.08,1416
+1359,82,Electra Amsterdam Original 3i Ladies' - 2017,892.98,1417
+1254,80,Sun Bicycles Brickell Tandem CB - 2017,889.58,1418
+68,13,Electra Cruiser 1 (24-Inch) - 2016,888.28,1419
+601,12,Electra Townie Original 21D - 2016,879.98,1420
+101,12,Electra Townie Original 21D - 2016,879.98,1421
+966,73,Sun Bicycles Brickell Tandem 7 - 2017,877.98,1422
+106,13,Electra Cruiser 1 (24-Inch) - 2016,872.08,1423
+720,6,Surly Ice Cream Truck Frameset - 2016,861.01,1424
+163,12,Electra Townie Original 21D - 2016,854.19,1425
+332,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,853.1,1426
+583,15,Electra Moto 1 - 2016,847.98,1427
+1512,217,Electra Straight 8 3i - 2018,846.29,1428
+873,32,Trek Farley Alloy Frameset - 2017,845.98,1429
+689,33,Surly Wednesday Frameset - 2017,845.98,1430
+328,6,Surly Ice Cream Truck Frameset - 2016,845.98,1431
+107,13,Electra Cruiser 1 (24-Inch) - 2016,845.18,1432
+897,96,Electra Moto 3i (20-inch) - Boy's - 2017,839.78,1433
+1319,75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,837.98,1434
+642,68,Sun Bicycles Cruz 3 - 2017,836.98,1435
+96,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,824.98,1436
+1195,52,Surly Steamroller - 2017,814.67,1437
+857,29,Trek X-Caliber 8 - 2017,799.99,1438
+739,3,Surly Wednesday Frameset - 2016,799.99,1439
+650,3,Surly Wednesday Frameset - 2016,799.99,1440
+242,3,Surly Wednesday Frameset - 2016,799.99,1441
+1071,25,Electra Townie Original 7D - 2015/2016,799.98,1442
+621,17,Pure Cycles Vine 8-Speed - 2016,797.94,1443
+1545,45,Haro SR 1.2 - 2017,782.99,1444
+1606,245,Electra Townie Original 3i EQ - 2017/2018,782.98,1445
+326,12,Electra Townie Original 21D - 2016,773.98,1446
+331,17,Pure Cycles Vine 8-Speed - 2016,772.2,1447
+1599,104,Sun Bicycles Streamway - 2017,771.18,1448
+172,16,Electra Townie Original 7D EQ - 2016,758.98,1449
+511,13,Electra Cruiser 1 (24-Inch) - 2016,755.97,1450
+102,15,Electra Moto 1 - 2016,754.58,1451
+778,64,Electra Townie Original 7D - 2017,754.48,1452
+975,110,Sun Bicycles Drifter 7 - 2017,753.58,1453
+796,6,Surly Ice Cream Truck Frameset - 2016,751.98,1454
+744,33,Surly Wednesday Frameset - 2017,751.98,1455
+393,6,Surly Ice Cream Truck Frameset - 2016,751.98,1456
+1010,109,Sun Bicycles Cruz 7 - Women's - 2017,750.58,1457
+1596,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,736.59,1458
+1316,76,"Electra Girl's Hawaii 1 16"" - 2017",728.97,1459
+471,13,Electra Cruiser 1 (24-Inch) - 2016,728.97,1460
+133,13,Electra Cruiser 1 (24-Inch) - 2016,728.97,1461
+1472,84,Sun Bicycles Lil Kitt'n - 2017,727.98,1462
+786,80,Sun Bicycles Brickell Tandem CB - 2017,723.89,1463
+743,80,Sun Bicycles Brickell Tandem CB - 2017,723.89,1464
+836,108,Sun Bicycles Cruz 3 - Women's - 2017,719.98,1465
+1039,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,718.4,1466
+643,53,Surly Ogre Frameset - 2017,712.49,1467
+226,2,Ritchey Timberwolf Frameset - 2016,712.49,1468
+1204,37,Haro Flightline One ST - 2017,706.78,1469
+1114,52,Surly Steamroller - 2017,700.79,1470
+1196,53,Surly Ogre Frameset - 2017,697.49,1471
+362,2,Ritchey Timberwolf Frameset - 2016,697.49,1472
+763,90,Trek Precaliber 16 Girls - 2017,692.08,1473
+424,6,Surly Ice Cream Truck Frameset - 2016,689.48,1474
+301,6,Surly Ice Cream Truck Frameset - 2016,689.48,1475
+1528,229,Electra Cruiser Lux 1 - 2016/2018,687.98,1476
+246,17,Pure Cycles Vine 8-Speed - 2016,686.4,1477
+1492,37,Haro Flightline One ST - 2017,683.98,1478
+322,13,Electra Cruiser 1 (24-Inch) - 2016,683.07,1479
+210,13,Electra Cruiser 1 (24-Inch) - 2016,683.07,1480
+1448,239,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,674.99,1481
+320,2,Ritchey Timberwolf Frameset - 2016,674.99,1482
+1581,64,Electra Townie Original 7D - 2017,672.98,1483
+614,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,660.59,1484
+371,12,Electra Townie Original 21D - 2016,655.98,1485
+1061,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,655.19,1486
+354,19,Pure Cycles William 3-Speed - 2016,642.54,1487
+1309,65,Sun Bicycles Lil Bolt Type-R - 2017,633.62,1488
+1473,84,Sun Bicycles Lil Kitt'n - 2017,631.67,1489
+1044,97,Electra Savannah 3i (20-inch) - Girl's - 2017,629.98,1490
+115,19,Pure Cycles William 3-Speed - 2016,620.09,1491
+1292,70,Electra Amsterdam Original 3i - 2015/2017,613.79,1492
+729,101,Electra Townie 7D (20-inch) - Boys' - 2017,611.98,1493
+926,37,Haro Flightline One ST - 2017,607.98,1494
+1430,221,Electra Cruiser 7D Ladies' - 2016/2018,601.58,1495
+573,2,Ritchey Timberwolf Frameset - 2016,599.99,1496
+1317,82,Electra Amsterdam Original 3i Ladies' - 2017,593.99,1497
+771,13,Electra Cruiser 1 (24-Inch) - 2016,583.98,1498
+1069,93,Haro Shredder 20 Girls - 2017,576.79,1499
+116,26,Electra Townie Original 7D EQ - 2016,569.99,1500
+341,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,569.98,1501
+473,26,Electra Townie Original 7D EQ - 2016,557.99,1502
+180,16,Electra Townie Original 7D EQ - 2016,557.99,1503
+1016,76,"Electra Girl's Hawaii 1 16"" - 2017",557.98,1504
+953,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,557.98,1505
+894,101,Electra Townie 7D (20-inch) - Boys' - 2017,543.98,1506
+122,16,Electra Townie Original 7D EQ - 2016,539.99,1507
+1421,298,Electra Water Lily 1 (16-inch) - Girl's - 2018,531.98,1508
+1413,297,"Electra Under-The-Sea 1 16"" - 2018",531.98,1509
+636,85,Haro Downtown 16 - 2017,527.98,1510
+1209,89,Trek Precaliber 16 Boys - 2017,527.78,1511
+907,65,Sun Bicycles Lil Bolt Type-R - 2017,527.28,1512
+1223,103,Sun Bicycles Streamway 3 - 2017,524.39,1513
+137,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,521.98,1514
+964,74,Electra Cruiser Lux 1 - 2017,519.98,1515
+772,103,Sun Bicycles Streamway 3 - 2017,513.35,1516
+1369,213,Electra Cruiser 1 - 2016/2017/2018,512.98,1517
+541,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,512.98,1518
+528,21,Electra Cruiser 1 (24-Inch) - 2016,512.98,1519
+451,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,512.98,1520
+330,21,Electra Cruiser 1 (24-Inch) - 2016,512.98,1521
+648,24,Electra Townie Original 21D - 2016,511.49,1522
+1198,105,Sun Bicycles Streamway 7 - 2017,507.29,1523
+1243,44,Haro SR 1.1 - 2017,502.19,1524
+517,21,Electra Cruiser 1 (24-Inch) - 2016,502.18,1525
+478,21,Electra Cruiser 1 (24-Inch) - 2016,502.18,1526
+463,13,Electra Cruiser 1 (24-Inch) - 2016,502.18,1527
+381,21,Electra Cruiser 1 (24-Inch) - 2016,502.18,1528
+295,22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,502.18,1529
+49,13,Electra Cruiser 1 (24-Inch) - 2016,502.18,1530
+158,24,Electra Townie Original 21D - 2016,494.99,1531
+154,12,Electra Townie Original 21D - 2016,494.99,1532
+65,12,Electra Townie Original 21D - 2016,494.99,1533
+1136,105,Sun Bicycles Streamway 7 - 2017,480.59,1534
+505,26,Electra Townie Original 7D EQ - 2016,479.99,1535
+119,25,Electra Townie Original 7D - 2015/2016,474.99,1536
+1180,66,Sun Bicycles Revolutions 24 - 2017,466.84,1537
+619,25,Electra Townie Original 7D - 2015/2016,464.99,1538
+279,25,Electra Townie Original 7D - 2015/2016,464.99,1539
+52,25,Electra Townie Original 7D - 2015/2016,464.99,1540
+482,13,Electra Cruiser 1 (24-Inch) - 2016,458.98,1541
+1363,66,Sun Bicycles Revolutions 24 - 2017,451.78,1542
+1181,98,Electra Straight 8 3i (20-inch) - Boy's - 2017,440.99,1543
+14,6,Surly Ice Cream Truck Frameset - 2016,437.09,1544
+1603,275,Trek Precaliber 20 Girl's - 2018,436.98,1545
+194,21,Electra Cruiser 1 (24-Inch) - 2016,431.98,1546
+42,19,Pure Cycles William 3-Speed - 2016,426.55,1547
+626,15,Electra Moto 1 - 2016,423.99,1548
+1574,127,Surly Pack Rat Frameset - 2018,422.99,1549
+780,32,Trek Farley Alloy Frameset - 2017,422.99,1550
+1113,106,Sun Bicycles Cruz 3 - 2017,418.49,1551
+895,106,Sun Bicycles Cruz 3 - 2017,418.49,1552
+932,74,Electra Cruiser Lux 1 - 2017,417.99,1553
+1387,106,Sun Bicycles Cruz 3 - 2017,404.99,1554
+483,17,Pure Cycles Vine 8-Speed - 2016,398.97,1555
+820,107,Sun Bicycles Cruz 7 - 2017,396.14,1556
+726,64,Electra Townie Original 7D - 2017,391.99,1557
+719,100,Electra Townie 3i EQ (20-inch) - Boys' - 2017,391.99,1558
+1588,93,Haro Shredder 20 Girls - 2017,390.58,1559
+1190,71,Sun Bicycles Atlas X-Type - 2017,387.8,1560
+1493,230,Electra Cruiser Lux 1 Ladies' - 2018,386.99,1561
+510,17,Pure Cycles Vine 8-Speed - 2016,386.1,1562
+125,17,Pure Cycles Vine 8-Speed - 2016,386.1,1563
+46,17,Pure Cycles Vine 8-Speed - 2016,386.1,1564
+1453,89,Trek Precaliber 16 Boys - 2017,377.98,1565
+1403,93,Haro Shredder 20 Girls - 2017,377.98,1566
+965,90,Trek Precaliber 16 Girls - 2017,377.98,1567
+863,93,Haro Shredder 20 Girls - 2017,377.98,1568
+824,92,Haro Shredder 20 - 2017,377.98,1569
+766,111,Sun Bicycles Drifter 7 - Women's - 2017,376.79,1570
+487,6,Surly Ice Cream Truck Frameset - 2016,375.99,1571
+143,6,Surly Ice Cream Truck Frameset - 2016,375.99,1572
+387,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,359.2,1573
+141,18,Pure Cycles Western 3-Speed - Women's - 2015/2016,359.2,1574
+1090,74,Electra Cruiser Lux 1 - 2017,351.99,1575
+714,92,Haro Shredder 20 - 2017,335.98,1576
+849,109,Sun Bicycles Cruz 7 - Women's - 2017,333.59,1577
+1102,91,Trek Precaliber 24 (21-Speed) - Girls - 2017,325.49,1578
+867,101,Electra Townie 7D (20-inch) - Boys' - 2017,322.99,1579
+801,101,Electra Townie 7D (20-inch) - Boys' - 2017,316.19,1580
+1106,96,Electra Moto 3i (20-inch) - Boy's - 2017,314.99,1581
+1595,112,Trek 820 - 2018,303.99,1582
+1504,276,Trek Precaliber 24 (7-Speed) - Boys - 2018,297.59,1583
+1222,97,Electra Savannah 3i (20-inch) - Girl's - 2017,279.99,1584
+1035,96,Electra Moto 3i (20-inch) - Boy's - 2017,279.99,1585
+347,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,278.99,1586
+1042,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,269.99,1587
+910,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,269.99,1588
+757,95,"Electra Girl's Hawaii 1 16"" - 2017",269.99,1589
+746,99,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,269.99,1590
+494,23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,269.99,1591
+502,13,Electra Cruiser 1 (24-Inch) - 2016,256.49,1592
+395,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,256.49,1593
+148,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,256.49,1594
+1567,279,Trek Precaliber 24 7-speed Girl's - 2018,255.99,1595
+512,21,Electra Cruiser 1 (24-Inch) - 2016,251.09,1596
+1245,13,Electra Cruiser 1 (24-Inch) - 2016,242.99,1597
+273,21,Electra Cruiser 1 (24-Inch) - 2016,242.99,1598
+214,21,Electra Cruiser 1 (24-Inch) - 2016,242.99,1599
+213,13,Electra Cruiser 1 (24-Inch) - 2016,242.99,1600
+209,13,Electra Cruiser 1 (24-Inch) - 2016,242.99,1601
+110,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,242.99,1602
+10,14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,242.99,1603
+1433,264,Strider Sport 16 - 2018,232.49,1604
+655,67,Sun Bicycles Revolutions 24 - Girl's - 2017,225.89,1605
+159,13,Electra Cruiser 1 (24-Inch) - 2016,215.99,1606
+1202,84,Sun Bicycles Lil Kitt'n - 2017,208.98,1607
+819,94,Haro Shredder Pro 20 - 2017,199.99,1608
+1604,271,Trek Precaliber 16 Girl's - 2018,188.99,1609
+1144,88,Trek Precaliber 12 Girls - 2017,176.69,1610
+1176,87,Trek Precaliber 12 Boys - 2017,170.99,1611
+1098,88,Trek Precaliber 12 Girls - 2017,170.99,1612
+854,87,Trek Precaliber 12 Boys - 2017,170.99,1613
+916,92,Haro Shredder 20 - 2017,167.99,1614
+701,84,Sun Bicycles Lil Kitt'n - 2017,104.49,1615
