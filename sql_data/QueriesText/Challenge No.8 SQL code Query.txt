@@ -1,0 +1,22 @@
+CREATE VIEW Valueable_Orders AS
+WITH Order_Value AS (
+SELECT
+o.Order_ID,
+ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.Discount)), 2) AS Value
+FROM orders o
+JOIN order_items oi
+	ON o.Order_ID = oi.Order_ID
+GROUP BY o.order_ID
+),
+
+Ranked_Order AS (
+SELECT 
+order_ID,
+Value,
+row_number() OVER (ORDER BY Value DESC) AS rankings
+FROM Order_Value
+)
+
+SELECT * 
+FROM Ranked_Order
+Where Rankings <= 10;
