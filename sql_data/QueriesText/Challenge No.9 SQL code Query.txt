@@ -1,0 +1,22 @@
+-- in Order Status
+-- "1" means pending, "2" for processed, "3" for cancelled and "4" for Completed
+WITH Inital_Filter AS
+(
+SELECT 
+COUNT(order_id) AS total_orders,
+SUM(CASE WHEN Order_Status = '1' THEN 1 ELSE 0 END) AS Pending_Orders, 
+SUM(CASE WHEN Order_Status = '2' THEN 1 ELSE 0 END) AS Processed_Orders,
+SUM(CASE WHEN Order_Status = '3' THEN 1 ELSE 0 END) AS Cancelled_Orders, 
+SUM(CASE WHEN Order_Status = '4' THEN 1 ELSE 0 END) AS Completed_Orders, 
+SUM(CASE WHEN Shipped_Date IS NULL THEN 1 ELSE 0 END) AS Unprocessed
+FROM orders
+)
+
+SELECT 
+ROUND(CAST(Pending_Orders AS FLOAT)/NULLIF(total_orders, 0) * 100, 2) AS pending_rate,
+ROUND(CAST(Processed_Orders AS FLOAT)/NULLIF(total_orders, 0) * 100, 2) AS processed_rate,
+ROUND(CAST(Cancelled_Orders AS FLOAT)/NULLIF(total_orders, 0) * 100, 2) AS cancelled_rate,
+ROUND(CAST(Completed_Orders AS FLOAT)/NULLIF(total_orders, 0) * 100, 2) AS completed_rate,
+ROUND(CAST(Unprocessed AS FLOAT)/NULLIF(total_orders, 0) * 100, 2) AS unprocessed_rate,
+total_orders
+FROM Inital_Filter;
