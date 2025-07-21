@@ -22,16 +22,26 @@ Data modeling & transformation
 
 📊 Business Questions Answered (Power BI-ready SQL Challenges)
 *	Business Question	Focus
-1	Which products generated the most revenue this year?	Joins, Aggregation, Filtering
-2	Who are our most valuable customers?	Aggregation, Joins
-3	What is the monthly trend in total sales?	Date functions, Grouping
-4	Which staff members are closing the most sales?	Staff-level Aggregation
-5	Which stores have the highest and lowest performance?	Store-level comparison
-6	What are the most and least popular product categories?	Units sold by category
-7	What’s the average discount rate by product?	Discount analysis
-8	Which orders had the highest value?	Order value calculation
-9	What is the return rate or missing shipment rate?	Order status tracking
-10	How does customer purchase behavior vary by region?	Regional segmentation
+1. Which products generated the most revenue this year?	
+- Joins, Aggregation, Filtering
+2. Who are our most valuable customers?	
+- Aggregation, Joins
+3. What is the monthly trend in total sales?	
+- Date functions, Grouping
+4. Which staff members are closing the most sales?	
+- Staff-level Aggregation
+5. Which stores have the highest and lowest performance?	
+- Store-level comparison
+6. What are the most and least popular product categories?	
+- Units sold by category
+7. What’s the average discount rate by product?	
+- Discount analysis
+8. Which orders had the highest value?	
+- Order value calculation
+9. What is the return rate or missing shipment rate?	
+- Order status tracking
+10. How does customer purchase behavior vary by region?	
+- Regional segmentation
 
 ✅ Each SQL result was exported and visualized in Power BI, following best practices in dashboard design and storytelling.
 
