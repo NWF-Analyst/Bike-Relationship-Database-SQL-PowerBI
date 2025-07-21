@@ -1,4 +1,5 @@
 # Bike-Relationship-Database
+
 Power BI + SQL Portfolio Project
 🛒 Bike Store Sample Database | Business Analysis with SQL & Power BI
 📌 Goal: Transform raw SQL queries into actionable Power BI dashboards to answer real business questions for a fictional retail bike store.
