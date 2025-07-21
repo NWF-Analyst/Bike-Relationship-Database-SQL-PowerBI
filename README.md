@@ -21,7 +21,7 @@ DAX (in-progress)
 Data modeling & transformation
 
 📊 Business Questions Answered (Power BI-ready SQL Challenges)
-#	Business Question	Focus
+*	Business Question	Focus
 1	Which products generated the most revenue this year?	Joins, Aggregation, Filtering
 2	Who are our most valuable customers?	Aggregation, Joins
 3	What is the monthly trend in total sales?	Date functions, Grouping
