@@ -1,11 +1,13 @@
+--CREATE VIEW Customers_by_Region AS
 SELECT 
 c.State,
 ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.Discount)), 2) AS Total_Revenue,
 ROUND(AVG(oi.Discount), 2) AS Average_Discount,
-COUNT(DISTINCT c.Customer_ID) AS Number_of_Customers
+COUNT(DISTINCT c.Customer_ID) AS Number_of_Customers,
+o.Order_Date
 FROM customers c
 	JOIN orders o
 		ON c.Customer_ID = o.Customer_ID 
 	JOIN order_items oi
 		ON o.order_ID = oi.order_ID
-GROUP BY State;	
+GROUP BY o.Order_Date, c.State;	
