@@ -1,0 +1,18 @@
+CREATE VIEW 'Products Total Quantity, Revenue and Average Discount' AS
+SELECT
+p.Product_ID,
+p.Product_Name,
+c.State,
+COUNT(oi.Order_ID) AS Number_of_Orders,
+SUM(oi.Quantity) AS Total_Quantity,
+ROUND(SUM(oi.List_Price * oi.Quantity * (1 - oi.Discount)), 2) AS Revenue,
+ROUND(AVG(oi.Discount), 2) AS AVG_Discount
+FROM products p
+	JOIN order_items oi
+		ON p.Product_ID = oi.Product_ID
+	JOIN orders o
+		ON oi.order_ID = o.order_ID
+	JOIN customers c
+		ON o.Customer_ID = c.Customer_ID
+GROUP BY p.Product_ID, p.Product_Name, c.State
+ORDER BY Number_of_Orders;
